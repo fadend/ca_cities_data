@@ -1,8 +1,7 @@
-library(httr)
 library(XML)
 
 fetchDataFromStateTable <- function(wikipediaUrl) {
-    wikiTables <- readHTMLTable(doc=content(GET(wikipediaUrl), "text"))
+    wikiTables <- readHTMLTable(wikipediaUrl)
 
     stats <- setNames(tail(wikiTables[[2]], n=-2),
     c("city_name", "type", "county", "pop_2020", "pop_2010", "pop_delta", "area_mi2",
