@@ -10,6 +10,12 @@ write.csv(
   file="ca_cities.csv", row.names=FALSE)
 ```
 
+This was extended with lat-lng for each city as provided by Google's Place API:
+
+```
+m <- mergeWithGoogleLatLng(d, read.csv("ca_cities_google_lat_lng.csv", stringsAsFactors=FALSE))
+```
+
 ## ca_cities_wiki_names.gpkg
 
 Original data downloaded from https://gis.data.ca.gov/datasets/CDTFA::city-and-county-boundary-line-changes/explore?layer=0&location=33.924386%2C-118.008294%2C11.67

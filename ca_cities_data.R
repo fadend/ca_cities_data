@@ -14,3 +14,9 @@ fetchDataFromStateTable <- function(wikipediaUrl) {
     stats$area_mi2 <- as.numeric(stats$area_mi2)
     return(stats)
 }
+
+mergeWithGoogleLatLng <- function(dataDf, latLngDf) {
+    stopifnot(setequal(dataDf$city_name, latLngDf$city_name))
+    latLngDf <- setNames(latLngDf[c("city_name", "lat", "lng")], c("city_name", "google_lat", "google_lng"))
+    merge(dataDf, latLngDf, by="city_name")
+}

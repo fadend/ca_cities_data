@@ -1,484 +1,484 @@
-"city_name","type","county","pop_2020","pop_2010","area_mi2","county_seat","incorporation_date"
-"Adelanto","City","San Bernardino",38046,31765,52.87,FALSE,"December 22, 1970"
-"Agoura Hills","City","Los Angeles",20299,20330,7.8,FALSE,"December 8, 1982"
-"Alameda","City","Alameda",78280,73812,10.45,FALSE,"April 19, 1854"
-"Albany","City","Alameda",20271,18539,1.79,FALSE,"September 22, 1908"
-"Alhambra","City","Los Angeles",82868,83089,7.63,FALSE,"July 11, 1903"
-"Aliso Viejo","City","Orange",52176,47823,6.93,FALSE,"July 1, 2001"
-"Alturas","City","Modoc",2715,2827,2.84,TRUE,"September 16, 1901"
-"Amador City","City","Amador",200,185,0.31,FALSE,"June 2, 1915"
-"American Canyon","City","Napa",21837,19454,6.09,FALSE,"January 1, 1992"
-"Anaheim","City","Orange",346824,336265,50.27,FALSE,"March 18, 1876"
-"Anderson","City","Shasta",11323,9932,7.03,FALSE,"January 16, 1956"
-"Angels Camp","City","Calaveras",3667,3836,3.63,FALSE,"January 16, 1912"
-"Antioch","City","Contra Costa",115291,102372,29.17,FALSE,"February 6, 1872"
-"Apple Valley","Town","San Bernardino",75791,69135,77.01,FALSE,"November 28, 1988"
-"Arcadia","City","Los Angeles",56681,56364,10.93,FALSE,"August 5, 1903"
-"Arcata","City","Humboldt",18857,17231,9.42,FALSE,"February 2, 1858"
-"Arroyo Grande","City","San Luis Obispo",18441,17252,5.94,FALSE,"July 10, 1911"
-"Artesia","City","Los Angeles",16395,16522,1.62,FALSE,"May 29, 1959"
-"Arvin","City","Kern",19495,19304,4.82,FALSE,"December 21, 1960"
-"Atascadero","City","San Luis Obispo",29773,28310,26.07,FALSE,"July 2, 1979"
-"Atherton","Town","San Mateo",7188,6914,5.02,FALSE,"September 12, 1923"
-"Atwater","City","Merced",31970,28168,6.57,FALSE,"August 16, 1922"
-"Auburn","City","Placer",13776,13330,7.18,TRUE,"May 2, 1888"
-"Avalon","City","Los Angeles",3460,3728,2.89,FALSE,"June 26, 1913"
-"Avenal","City","Kings",13696,15505,19.48,FALSE,"September 11, 1979"
-"Azusa","City","Los Angeles",50000,46361,9.66,FALSE,"December 29, 1898"
-"Bakersfield","City","Kern",403455,347483,149.78,TRUE,"January 11, 1898"
-"Baldwin Park","City","Los Angeles",72176,75390,6.63,FALSE,"January 25, 1956"
-"Banning","City","Riverside",29505,29603,23.24,FALSE,"February 6, 1913"
-"Barstow","City","San Bernardino",25415,22639,41.3,FALSE,"September 30, 1947"
-"Beaumont","City","Riverside",53036,36877,30.32,FALSE,"November 18, 1912"
-"Bell","City","Los Angeles",33559,35477,2.51,FALSE,"November 7, 1927"
-"Bell Gardens","City","Los Angeles",39501,42072,2.46,FALSE,"August 1, 1961"
-"Bellflower","City","Los Angeles",79190,76616,6.12,FALSE,"September 3, 1957"
-"Belmont","City","San Mateo",28335,25835,4.63,FALSE,"October 29, 1926"
-"Belvedere","City","Marin",2126,2068,0.52,FALSE,"December 24, 1896"
-"Benicia","City","Solano",27131,26997,12.81,FALSE,"March 27, 1850"
-"Berkeley","City","Alameda",124321,112580,10.43,FALSE,"April 4, 1878"
-"Beverly Hills","City","Los Angeles",32701,34109,5.71,FALSE,"January 28, 1914"
-"Big Bear Lake","City","San Bernardino",5046,5019,6.24,FALSE,"November 28, 1980"
-"Biggs","City","Butte",1964,1707,0.9,FALSE,"June 26, 1903"
-"Bishop","City","Inyo",3819,3879,1.86,FALSE,"May 6, 1903"
-"Blue Lake","City","Humboldt",1208,1253,0.59,FALSE,"April 23, 1910"
-"Blythe","City","Riverside",18317,20817,26.58,FALSE,"July 21, 1916"
-"Bradbury","City","Los Angeles",921,1048,1.96,FALSE,"July 26, 1957"
-"Brawley","City","Imperial",26416,24953,8.12,FALSE,"April 6, 1908"
-"Brea","City","Orange",47325,39282,12.17,FALSE,"February 23, 1917"
-"Brentwood","City","Contra Costa",64292,51481,14.87,FALSE,"January 21, 1948"
-"Brisbane","City","San Mateo",4851,4282,2.99,FALSE,"November 27, 1961"
-"Buellton","City","Santa Barbara",5161,4828,1.58,FALSE,"February 1, 1992"
-"Buena Park","City","Orange",84034,80530,10.53,FALSE,"January 27, 1953"
-"Burbank","City","Los Angeles",107337,103340,17.32,FALSE,"July 8, 1911"
-"Burlingame","City","San Mateo",31386,28806,4.39,FALSE,"June 6, 1908"
-"Calabasas","City","Los Angeles",23241,23058,13.71,FALSE,"April 5, 1991"
-"Calexico","City","Imperial",38633,38572,8.62,FALSE,"April 16, 1908"
-"California City","City","Kern",14973,14120,203.61,FALSE,"December 10, 1965"
-"Calimesa","City","Riverside",10026,7879,14.86,FALSE,"December 1, 1990"
-"Calipatria","City","Imperial",6515,7705,3.7,FALSE,"February 28, 1919"
-"Calistoga","City","Napa",5228,5155,2.58,FALSE,"January 6, 1886"
-"Camarillo","City","Ventura",70741,65201,19.69,FALSE,"March 28, 1964"
-"Campbell","City","Santa Clara",43959,39349,6.08,FALSE,"March 28, 1952"
-"Canyon Lake","City","Riverside",11082,10561,3.92,FALSE,"December 1, 1990"
-"Capitola","City","Santa Cruz",9938,9918,1.59,FALSE,"January 11, 1949"
-"Carlsbad","City","San Diego",114746,105328,37.77,FALSE,"July 16, 1952"
-"Carmel-by-the-Sea","City","Monterey",3220,3722,1.06,FALSE,"October 31, 1916"
-"Carpinteria","City","Santa Barbara",13264,13040,2.59,FALSE,"September 28, 1965"
-"Carson","City","Los Angeles",95558,91714,18.73,FALSE,"February 20, 1968"
-"Cathedral City","City","Riverside",51493,51200,22.49,FALSE,"November 16, 1981"
-"Ceres","City","Stanislaus",49302,45417,9.5,FALSE,"February 25, 1918"
-"Cerritos","City","Los Angeles",49578,49041,8.73,FALSE,"April 24, 1956"
-"Chico","City","Butte",101475,86187,34.14,FALSE,"January 8, 1872"
-"Chino","City","San Bernardino",91403,77983,29.61,FALSE,"February 28, 1910"
-"Chino Hills","City","San Bernardino",78411,74799,44.65,FALSE,"December 1, 1991"
-"Chowchilla","City","Madera",19039,18720,11.09,FALSE,"February 7, 1923"
-"Chula Vista","City","San Diego",275487,243916,49.64,FALSE,"November 28, 1911"
-"Citrus Heights","City","Sacramento",87583,83301,14.22,FALSE,"January 1, 1997"
-"Claremont","City","Los Angeles",37266,34926,13.34,FALSE,"October 3, 1907"
-"Clayton","City","Contra Costa",11070,10897,3.84,FALSE,"March 18, 1964"
-"Clearlake","City","Lake",16685,15250,10.13,FALSE,"November 14, 1980"
-"Cloverdale","City","Sonoma",8996,8618,3.14,FALSE,"February 28, 1872"
-"Clovis","City","Fresno",120124,95631,25.42,FALSE,"February 27, 1912"
-"Coachella","City","Riverside",41941,40704,30.08,FALSE,"December 13, 1946"
-"Coalinga","City","Fresno",17590,13380,6.85,FALSE,"April 3, 1906"
-"Colfax","City","Placer",1995,1963,1.41,FALSE,"February 23, 1910"
-"Colma","Town","San Mateo",1507,1792,1.89,FALSE,"August 5, 1924"
-"Colton","City","San Bernardino",53909,52154,15.55,FALSE,"July 11, 1887"
-"Colusa","City","Colusa",6411,5971,3.42,TRUE,"June 16, 1868"
-"Commerce","City","Los Angeles",12378,12823,6.53,FALSE,"January 28, 1960"
-"Compton","City","Los Angeles",95740,96455,10.03,FALSE,"May 11, 1888"
-"Concord","City","Contra Costa",125410,122067,30.55,FALSE,"February 9, 1905"
-"Corcoran","City","Kings",22339,24813,7.46,FALSE,"August 11, 1914"
-"Corning","City","Tehama",8244,7663,3.55,FALSE,"August 6, 1907"
-"Corona","City","Riverside",157136,152374,39.94,FALSE,"July 13, 1896"
-"Coronado","City","San Diego",20192,18912,7.81,FALSE,"December 11, 1890"
-"Corte Madera","Town","Marin",10222,9253,3.16,FALSE,"June 10, 1916"
-"Costa Mesa","City","Orange",111918,109960,15.81,FALSE,"June 29, 1953"
-"Cotati","City","Sonoma",7584,7265,1.87,FALSE,"July 16, 1963"
-"Covina","City","Los Angeles",51268,47796,7.04,FALSE,"August 14, 1901"
-"Crescent City","City","Del Norte",6673,7643,1.96,TRUE,"April 13, 1854"
-"Cudahy","City","Los Angeles",22811,23805,1.18,FALSE,"November 10, 1960"
-"Culver City","City","Los Angeles",40779,38883,5.11,FALSE,"September 7, 1917"
-"Cupertino","City","Santa Clara",60381,58302,11.33,FALSE,"October 10, 1955"
-"Cypress","City","Orange",50151,47802,6.61,FALSE,"July 24, 1956"
-"Daly City","City","San Mateo",104901,101123,7.64,FALSE,"March 22, 1911"
-"Dana Point","City","Orange",33107,33351,6.49,FALSE,"January 1, 1989"
-"Danville","Town","Contra Costa",43582,42039,18.08,FALSE,"July 1, 1982"
-"Davis","City","Yolo",66850,65622,9.97,FALSE,"March 28, 1917"
-"Del Mar","City","San Diego",3954,4161,1.72,FALSE,"July 15, 1959"
-"Del Rey Oaks","City","Monterey",1592,1624,1.05,FALSE,"September 3, 1953"
-"Delano","City","Kern",51428,53041,14.72,FALSE,"April 13, 1915"
-"Desert Hot Springs","City","Riverside",32512,25938,30.27,FALSE,"September 25, 1963"
-"Diamond Bar","City","Los Angeles",55072,55544,14.87,FALSE,"April 18, 1989"
-"Dinuba","City","Tulare",24563,21453,6.51,FALSE,"January 6, 1906"
-"Dixon","City","Solano",18988,18351,7.1,FALSE,"March 30, 1878"
-"Dorris","City","Siskiyou",860,939,0.7,FALSE,"December 23, 1908"
-"Dos Palos","City","Merced",5798,4950,1.35,FALSE,"May 24, 1935"
-"Downey","City","Los Angeles",114355,111772,12.41,FALSE,"December 17, 1956"
-"Duarte","City","Los Angeles",21727,21321,6.71,FALSE,"August 22, 1957"
-"Dublin","City","Alameda",72589,46036,15.23,FALSE,"February 1, 1982"
-"Dunsmuir","City","Siskiyou",1707,1650,1.6,FALSE,"August 7, 1909"
-"East Palo Alto","City","San Mateo",30034,28155,2.53,FALSE,"July 1, 1983"
-"Eastvale","City","Riverside[11]",69757,53670,12.67,FALSE,"October 1, 2010"
-"El Cajon","City","San Diego",106215,99478,14.51,FALSE,"November 12, 1912"
-"El Centro","City","Imperial",44322,42598,11.84,TRUE,"April 16, 1908"
-"El Cerrito","City","Contra Costa",25962,23549,3.67,FALSE,"August 23, 1917"
-"El Monte","City","Los Angeles",109450,113475,9.56,FALSE,"November 18, 1912"
-"El Segundo","City","Los Angeles",17272,16654,5.46,FALSE,"January 18, 1917"
-"Elk Grove","City","Sacramento",176124,153015,41.99,FALSE,"July 1, 2000"
-"Emeryville","City","Alameda",12905,10080,1.27,FALSE,"December 8, 1896"
-"Encinitas","City","San Diego",62007,59518,19.06,FALSE,"October 1, 1986"
-"Escalon","City","San Joaquin",7472,7132,2.28,FALSE,"March 12, 1957"
-"Escondido","City","San Diego",151038,143911,37.35,FALSE,"October 8, 1888"
-"Etna","City","Siskiyou",678,737,0.76,FALSE,"March 13, 1878"
-"Eureka","City","Humboldt",26512,27191,9.54,TRUE,"April 18, 1856"
-"Exeter","City","Tulare",10321,10334,2.46,FALSE,"March 2, 1911"
-"Fairfax","Town","Marin",7605,7441,2.23,FALSE,"March 2, 1931"
-"Fairfield","City","Solano",119881,105321,41.59,TRUE,"December 12, 1903"
-"Farmersville","City","Tulare",10397,10588,2.2,FALSE,"October 5, 1960"
-"Ferndale","City","Humboldt",1398,1371,1.2,FALSE,"August 28, 1893"
-"Fillmore","City","Ventura",16419,15002,3.3,FALSE,"July 10, 1914"
-"Firebaugh","City","Fresno",8096,7549,3.52,FALSE,"September 17, 1914"
-"Folsom","City","Sacramento",80454,72203,27.88,FALSE,"April 20, 1946"
-"Fontana","City","San Bernardino",208393,196069,43.07,FALSE,"June 25, 1952"
-"Fort Bragg","City","Mendocino",6983,7273,2.9,FALSE,"August 5, 1889"
-"Fort Jones","City","Siskiyou",695,839,0.6,FALSE,"March 16, 1872"
-"Fortuna","City","Humboldt",12516,11926,5.25,FALSE,"January 20, 1906"
-"Foster City","City","San Mateo",33805,30567,3.79,FALSE,"April 27, 1971"
-"Fountain Valley","City","Orange",57047,55313,9.07,FALSE,"June 13, 1957"
-"Fowler","City","Fresno",6700,5570,2.53,FALSE,"June 15, 1908"
-"Fremont","City","Alameda",230504,214089,78.31,FALSE,"January 23, 1956"
-"Fresno","City","Fresno",542107,494665,115.18,TRUE,"October 12, 1885"
-"Fullerton","City","Orange",143617,135161,22.42,FALSE,"February 15, 1904"
-"Galt","City","Sacramento",25383,23647,7.15,FALSE,"August 16, 1946"
-"Garden Grove","City","Orange",171949,170883,17.96,FALSE,"June 18, 1956"
-"Gardena","City","Los Angeles",61027,58829,5.83,FALSE,"September 11, 1930"
-"Gilroy","City","Santa Clara",59520,48821,16.54,FALSE,"March 12, 1870"
-"Glendale","City","Los Angeles",196543,191719,30.48,FALSE,"February 15, 1906"
-"Glendora","City","Los Angeles",52558,50073,19.51,FALSE,"November 13, 1911"
-"Goleta","City","Santa Barbara",32690,29888,7.85,FALSE,"February 1, 2002"
-"Gonzales","City","Monterey",8647,8187,1.91,FALSE,"January 14, 1947"
-"Grand Terrace","City","San Bernardino",13150,12040,3.5,FALSE,"November 30, 1978"
-"Grass Valley","City","Nevada",14016,12860,5.25,FALSE,"March 13, 1893"
-"Greenfield","City","Monterey",18937,16330,2.91,FALSE,"January 7, 1947"
-"Gridley","City","Butte",7421,6584,2.09,FALSE,"November 23, 1905"
-"Grover Beach","City","San Luis Obispo",12701,13156,2.31,FALSE,"December 21, 1959"
-"Guadalupe","City","Santa Barbara",8057,7080,1.31,FALSE,"August 3, 1946"
-"Gustine","City","Merced",6110,5520,1.55,FALSE,"November 11, 1915"
-"Half Moon Bay","City","San Mateo",11795,11324,6.24,FALSE,"July 15, 1959"
-"Hanford","City","Kings",57990,53967,17.4,TRUE,"August 12, 1891"
-"Hawaiian Gardens","City","Los Angeles",14149,14254,0.95,FALSE,"April 9, 1964"
-"Hawthorne","City","Los Angeles",88083,84293,6.09,FALSE,"July 12, 1922"
-"Hayward","City","Alameda",162954,144186,45.82,FALSE,"March 11, 1876"
-"Healdsburg","City","Sonoma",11340,11254,4.42,FALSE,"February 20, 1867"
-"Hemet","City","Riverside",89833,78657,29.28,FALSE,"January 20, 1910"
-"Hercules","City","Contra Costa",26016,24060,6.41,FALSE,"December 15, 1900"
-"Hermosa Beach","City","Los Angeles",19728,19506,1.43,FALSE,"January 14, 1907"
-"Hesperia","City","San Bernardino",99818,90173,72.68,FALSE,"July 1, 1988"
-"Hidden Hills","City","Los Angeles",1725,1856,1.69,FALSE,"January 19, 1961"
-"Highland","City","San Bernardino",56999,53104,18.57,FALSE,"November 24, 1987"
-"Hillsborough","Town","San Mateo",11387,10825,6.17,FALSE,"May 5, 1910"
-"Hollister","City","San Benito",41678,34928,7.96,TRUE,"March 26, 1872"
-"Holtville","City","Imperial",5605,5939,1.15,FALSE,"July 1, 1908"
-"Hughson","City","Stanislaus",7481,6640,1.91,FALSE,"December 9, 1972"
-"Huntington Beach","City","Orange",198711,189992,27,FALSE,"February 17, 1909"
-"Huntington Park","City","Los Angeles",54883,58114,3.01,FALSE,"September 1, 1906"
-"Huron","City","Fresno",6206,6754,1.6,FALSE,"May 3, 1951"
-"Imperial","City","Imperial",20263,14758,6.29,FALSE,"July 12, 1904"
-"Imperial Beach","City","San Diego",26137,26324,4.29,FALSE,"July 18, 1956"
-"Indian Wells","City","Riverside",4757,4958,14.32,FALSE,"July 14, 1967"
-"Indio","City","Riverside",89137,76036,33.23,FALSE,"May 16, 1930"
-"City of Industry","City","Los Angeles",264,219,11.78,FALSE,"June 18, 1957"
-"Inglewood","City","Los Angeles",107762,109673,9.07,FALSE,"February 7, 1908"
-"Ione","City","Amador",5141,7918,4.58,FALSE,"March 23, 1953"
-"Irvine","City","Orange",307670,212375,65.61,FALSE,"December 28, 1971"
-"Irwindale","City","Los Angeles",1472,1422,8.83,FALSE,"August 6, 1957"
-"Isleton","City","Sacramento",794,804,0.44,FALSE,"May 14, 1923"
-"Jackson","City","Amador",5019,4651,3.58,TRUE,"December 5, 1905"
-"Jurupa Valley","City","Riverside[12]",105053,95004,42.94,FALSE,"July 1, 2011"
-"Kerman","City","Fresno",16016,13544,3.27,FALSE,"July 2, 1946"
-"King City","City","Monterey",13332,12874,3.8,FALSE,"February 9, 1911"
-"Kingsburg","City","Fresno",12380,11382,3.72,FALSE,"May 29, 1908"
-"La Cañada Flintridge","City","Los Angeles",20573,20246,8.63,FALSE,"November 30, 1976"
-"La Habra","City","Orange",63097,60239,7.56,FALSE,"January 20, 1925"
-"La Habra Heights","City","Los Angeles",5682,5325,6.16,FALSE,"December 4, 1978"
-"La Mesa","City","San Diego",61121,57065,9.09,FALSE,"February 16, 1912"
-"La Mirada","City","Los Angeles",48008,48527,7.82,FALSE,"March 23, 1960"
-"La Palma","City","Orange",15581,15568,1.78,FALSE,"October 26, 1955"
-"La Puente","City","Los Angeles",38062,39816,3.48,FALSE,"August 1, 1956"
-"La Quinta","City","Riverside",37558,37467,35.26,FALSE,"May 1, 1982"
-"La Verne","City","Los Angeles",31334,31063,8.42,FALSE,"August 20, 1906"
-"Lafayette","City","Contra Costa",25391,23893,15.02,FALSE,"July 29, 1968"
-"Laguna Beach","City","Orange",23032,22723,8.89,FALSE,"June 29, 1927"
-"Laguna Hills","City","Orange",31374,30344,6.55,FALSE,"December 20, 1991"
-"Laguna Niguel","City","Orange",64355,62979,14.74,FALSE,"December 1, 1989"
-"Laguna Woods","City","Orange",17644,16192,3.34,FALSE,"March 24, 1999"
-"Lake Elsinore","City","Riverside",70265,51821,38.24,FALSE,"April 9, 1888"
-"Lake Forest","City","Orange",85858,77264,16.71,FALSE,"December 20, 1991"
-"Lakeport","City","Lake",5026,4753,3.06,TRUE,"April 30, 1888"
-"Lakewood","City","Los Angeles",82496,80048,9.4,FALSE,"April 16, 1954"
-"Lancaster","City","Los Angeles",173516,156633,94.27,FALSE,"November 22, 1977"
-"Larkspur","City","Marin",13064,11926,3,FALSE,"March 1, 1908"
-"Lathrop","City","San Joaquin",28701,18023,19.83,FALSE,"July 1, 1989"
-"Lawndale","City","Los Angeles",31807,32769,1.97,FALSE,"December 28, 1959"
-"Lemon Grove","City","San Diego",27627,25320,3.88,FALSE,"July 1, 1977"
-"Lemoore","City","Kings",27038,24531,8.81,FALSE,"July 4, 1900"
-"Lincoln","City","Placer",49757,42819,24.17,FALSE,"August 7, 1890"
-"Lindsay","City","Tulare",12659,11768,2.72,FALSE,"February 28, 1910"
-"Live Oak","City","Sutter",9106,8392,3.12,FALSE,"January 22, 1947"
-"Livermore","City","Alameda",87955,80968,26.45,FALSE,"April 1, 1876"
-"Livingston","City","Merced",14172,13058,3.68,FALSE,"September 11, 1922"
-"Lodi","City","San Joaquin",66348,62134,13.64,FALSE,"December 6, 1906"
-"Loma Linda","City","San Bernardino",24791,23261,7.64,FALSE,"September 29, 1970"
-"Lomita","City","Los Angeles",20921,20256,1.91,FALSE,"June 30, 1964"
-"Lompoc","City","Santa Barbara",44444,42434,11.62,FALSE,"August 13, 1888"
-"Long Beach","City","Los Angeles",466742,462257,50.71,FALSE,"December 13, 1897"
-"Loomis","Town","Placer",6836,6430,7.27,FALSE,"December 17, 1984"
-"Los Alamitos","City","Orange",11780,11449,4.01,FALSE,"March 1, 1960"
-"Los Altos","City","Santa Clara",31625,28976,6.54,FALSE,"December 1, 1952"
-"Los Altos Hills","Town","Santa Clara",8489,7922,9.03,FALSE,"January 27, 1956"
-"Los Angeles","City","Los Angeles",3898747,3792621,469.49,TRUE,"April 4, 1850"
-"Los Banos","City","Merced",45532,35972,9.99,FALSE,"May 8, 1907"
-"Los Gatos","Town","Santa Clara",33529,29413,11.55,FALSE,"August 10, 1887"
-"Loyalton","City","Sierra",740,769,0.36,FALSE,"July 21, 1901"
-"Lynwood","City","Los Angeles",67265,69772,4.84,FALSE,"July 21, 1921"
-"Madera","City","Madera",66224,61416,16.48,TRUE,"March 27, 1907"
-"Malibu","City","Los Angeles",10654,12645,19.85,FALSE,"March 28, 1991"
-"Mammoth Lakes","Town","Mono",7191,8234,24.87,FALSE,"August 20, 1984"
-"Manhattan Beach","City","Los Angeles",35506,35135,3.93,FALSE,"December 12, 1912"
-"Manteca","City","San Joaquin",83498,67096,21.39,FALSE,"June 5, 1918"
-"Maricopa","City","Kern",1026,1154,1.57,FALSE,"July 25, 1911"
-"Marina","City","Monterey",22359,19718,8.91,FALSE,"November 13, 1975"
-"Martinez","City","Contra Costa",37287,35824,12.63,TRUE,"April 1, 1876"
-"Marysville","City","Yuba",12844,12072,3.46,TRUE,"February 5, 1851"
-"Maywood","City","Los Angeles",25138,27395,1.17,FALSE,"September 2, 1924"
-"McFarland","City","Kern",14161,12707,2.68,FALSE,"July 18, 1957"
-"Mendota","City","Fresno",12595,11014,3.39,FALSE,"June 17, 1942"
-"Menifee","City","Riverside",102527,77519,46.48,FALSE,"October 1, 2008"
-"Menlo Park","City","San Mateo",33780,32026,9.99,FALSE,"November 23, 1927"
-"Merced","City","Merced",86333,78958,23.25,TRUE,"April 1, 1889"
-"Mill Valley","City","Marin",14231,13903,4.78,FALSE,"September 1, 1900"
-"Millbrae","City","San Mateo",23216,21532,3.27,FALSE,"January 14, 1948"
-"Milpitas","City","Santa Clara",80273,66790,13.48,FALSE,"January 26, 1954"
-"Mission Viejo","City","Orange",93653,93305,17.66,FALSE,"March 31, 1988"
-"Modesto","City","Stanislaus",218464,201165,43.05,TRUE,"August 6, 1884"
-"Monrovia","City","Los Angeles",37931,36590,13.63,FALSE,"December 15, 1887"
-"Montague","City","Siskiyou",1226,1443,1.78,FALSE,"January 28, 1909"
-"Montclair","City","San Bernardino",37865,36664,5.53,FALSE,"April 25, 1956"
-"Monte Sereno","City","Santa Clara",3479,3341,1.63,FALSE,"May 14, 1957"
-"Montebello","City","Los Angeles",62640,62500,8.33,FALSE,"October 16, 1920"
-"Monterey","City","Monterey",30218,27810,8.65,FALSE,"June 14, 1890"
-"Monterey Park","City","Los Angeles",61096,60269,7.67,FALSE,"May 29, 1916"
-"Moorpark","City","Ventura",36284,34421,12.28,FALSE,"July 1, 1983"
-"Moraga","Town","Contra Costa",16870,16016,9.46,FALSE,"November 13, 1974"
-"Moreno Valley","City","Riverside",208634,193365,51.33,FALSE,"December 3, 1984"
-"Morgan Hill","City","Santa Clara",45483,37882,12.94,FALSE,"November 10, 1906"
-"Morro Bay","City","San Luis Obispo",10757,10234,5.33,FALSE,"July 17, 1964"
-"Mount Shasta","City","Siskiyou",3223,3394,3.77,FALSE,"May 31, 1905"
-"Mountain House","City","San Joaquin",24499,9675,4.558,FALSE,"July 1, 2024"
-"Mountain View","City","Santa Clara",82376,74066,11.96,FALSE,"November 7, 1902"
-"Murrieta","City","Riverside",110949,103466,33.61,FALSE,"July 1, 1991"
-"Napa","City","Napa",79246,76915,18.05,TRUE,"March 23, 1872"
-"National City","City","San Diego",56173,58582,7.3,FALSE,"September 17, 1887"
-"Needles","City","San Bernardino",4931,4844,30.58,FALSE,"October 30, 1913"
-"Nevada City","City","Nevada",3152,3068,2.19,TRUE,"April 19, 1856"
-"Newark","City","Alameda",47529,42573,13.92,FALSE,"September 22, 1955"
-"Newman","City","Stanislaus",12351,10224,2.06,FALSE,"June 10, 1908"
-"Newport Beach","City","Orange",85239,85186,23.79,FALSE,"September 1, 1906"
-"Norco","City","Riverside",26316,27063,13.86,FALSE,"December 28, 1964"
-"Norwalk","City","Los Angeles",102773,105549,9.71,FALSE,"August 26, 1957"
-"Novato","City","Marin",53225,51904,27.48,FALSE,"January 20, 1960"
-"Oakdale","City","Stanislaus",23181,20675,6.23,FALSE,"November 24, 1906"
-"Oakland","City","Alameda",440646,390724,55.93,TRUE,"May 4, 1852"
-"Oakley","City","Contra Costa",43357,35432,15.87,FALSE,"July 1, 1999"
-"Oceanside","City","San Diego",174068,167086,41.27,FALSE,"July 3, 1888"
-"Ojai","City","Ventura",7637,7461,4.36,FALSE,"August 5, 1921"
-"Ontario","City","San Bernardino",175265,163924,49.97,FALSE,"December 10, 1891"
-"Orange","City","Orange",139911,134616,25.67,FALSE,"April 6, 1888"
-"Orange Cove","City","Fresno",9649,9078,1.79,FALSE,"January 20, 1948"
-"Orinda","City","Contra Costa",19514,17643,12.85,FALSE,"July 1, 1985"
-"Orland","City","Glenn",8298,7291,2.99,FALSE,"November 11, 1909"
-"Oroville","City","Butte",20042,15546,13.83,TRUE,"January 3, 1906"
-"Oxnard","City","Ventura",202063,197899,26.53,FALSE,"June 30, 1903"
-"Pacific Grove","City","Monterey",15090,15041,2.87,FALSE,"July 5, 1889"
-"Pacifica","City","San Mateo",38640,37234,12.58,FALSE,"November 22, 1957"
-"Palm Desert","City","Riverside",51163,48445,26.81,FALSE,"November 26, 1973"
-"Palm Springs","City","Riverside",44575,44552,94.55,FALSE,"April 20, 1938"
-"Palmdale","City","Los Angeles",169450,152750,106.06,FALSE,"August 24, 1962"
-"Palo Alto","City","Santa Clara",68572,64403,24.1,FALSE,"April 23, 1894"
-"Palos Verdes Estates","City","Los Angeles",13347,13438,4.78,FALSE,"December 20, 1939"
-"Paradise","Town","Butte",4764,26218,18.32,FALSE,"November 27, 1979"
-"Paramount","City","Los Angeles",53733,54098,4.73,FALSE,"January 30, 1957"
-"Pasadena","City","Los Angeles",138699,137122,22.96,FALSE,"June 19, 1886"
-"Parlier","City","Fresno",14576,14494,2.41,FALSE,"November 15, 1921"
-"Paso Robles","City","San Luis Obispo",31490,29793,19.65,FALSE,"March 11, 1889"
-"Patterson","City","Stanislaus",23781,20413,7.79,FALSE,"December 22, 1919"
-"Perris","City","Riverside",78700,68386,31.53,FALSE,"May 26, 1911"
-"Petaluma","City","Sonoma",59776,57941,14.42,FALSE,"April 12, 1858"
-"Pico Rivera","City","Los Angeles",62088,62942,8.32,FALSE,"January 29, 1958"
-"Piedmont","City","Alameda",11270,10667,1.7,FALSE,"January 31, 1907"
-"Pinole","City","Contra Costa",19022,18390,5.1,FALSE,"June 25, 1903"
-"Pismo Beach","City","San Luis Obispo",8072,7655,3.5,FALSE,"April 25, 1946"
-"Pittsburg","City","Contra Costa",76416,63264,17.68,FALSE,"June 25, 1903"
-"Placentia","City","Orange",51824,50533,6.61,FALSE,"December 2, 1926"
-"Placerville","City","El Dorado",10747,10389,5.84,TRUE,"May 13, 1854"
-"Pleasant Hill","City","Contra Costa",34613,33152,7.08,FALSE,"November 14, 1961"
-"Pleasanton","City","Alameda",79871,70285,24.14,FALSE,"June 18, 1894"
-"Plymouth","City","Amador",1078,1005,2.65,FALSE,"February 8, 1917"
-"Point Arena","City","Mendocino",460,449,1.37,FALSE,"July 11, 1908"
-"Pomona","City","Los Angeles",151713,149058,22.99,FALSE,"January 6, 1888"
-"Port Hueneme","City","Ventura",21954,21723,4.42,FALSE,"March 24, 1948"
-"Porterville","City","Tulare",62623,54165,18.65,FALSE,"May 7, 1902"
-"Portola","City","Plumas",2100,2104,5.41,FALSE,"May 16, 1946"
-"Portola Valley","Town","San Mateo",4456,4353,9.08,FALSE,"July 14, 1964"
-"Poway","City","San Diego",48841,47811,39.08,FALSE,"December 1, 1980"
-"Rancho Cordova","City","Sacramento",79332,64776,34.57,FALSE,"July 1, 2003"
-"Rancho Cucamonga","City","San Bernardino",174453,165269,40.11,FALSE,"November 30, 1977"
-"Rancho Mirage","City","Riverside",16999,17218,25.35,FALSE,"August 3, 1973"
-"Rancho Palos Verdes","City","Los Angeles",42287,41643,13.47,FALSE,"September 7, 1973"
-"Rancho Santa Margarita","City","Orange",47949,47853,12.9,FALSE,"January 1, 2000"
-"Red Bluff","City","Tehama",14710,14076,7.56,TRUE,"March 31, 1876"
-"Redding","City","Shasta",93611,89861,59.65,TRUE,"October 4, 1887"
-"Redlands","City","San Bernardino",73168,68747,35.99,FALSE,"December 3, 1888"
-"Redondo Beach","City","Los Angeles",71576,66747,6.21,FALSE,"April 29, 1892"
-"Redwood City","City","San Mateo",84292,76815,19.34,TRUE,"May 11, 1867"
-"Reedley","City","Fresno",25227,24194,5.51,FALSE,"February 18, 1913"
-"Rialto","City","San Bernardino",104026,99171,24.09,FALSE,"November 17, 1911"
-"Richmond","City","Contra Costa",116448,103701,30.05,FALSE,"August 7, 1905"
-"Ridgecrest","City","Kern",27959,27616,20.86,FALSE,"November 29, 1963"
-"Rio Dell","City","Humboldt",3379,3368,2.28,FALSE,"February 23, 1965"
-"Rio Vista","City","Solano",10005,7360,6.6,FALSE,"January 6, 1894"
-"Ripon","City","San Joaquin",16013,14297,5.33,FALSE,"November 27, 1945"
-"Riverbank","City","Stanislaus",24865,22678,4.71,FALSE,"August 23, 1922"
-"Riverside","City","Riverside",314998,303871,81.23,TRUE,"October 11, 1883"
-"Rocklin","City","Placer",71601,56974,19.81,FALSE,"February 24, 1893"
-"Rohnert Park","City","Sonoma",44390,40971,7.29,FALSE,"August 28, 1962"
-"Rolling Hills","City","Los Angeles",1739,1860,2.99,FALSE,"January 24, 1957"
-"Rolling Hills Estates","City","Los Angeles",8280,8067,3.58,FALSE,"September 18, 1957"
-"Rosemead","City","Los Angeles",51185,53764,5.16,FALSE,"August 4, 1959"
-"Roseville","City","Placer",147773,118788,44.08,FALSE,"April 10, 1909"
-"Ross","Town","Marin",2338,2415,1.56,FALSE,"August 21, 1908"
-"Sacramento","City","Sacramento",524943,466488,98.61,TRUE,"February 27, 1850"
-"St. Helena","City","Napa",5430,5814,4.96,FALSE,"March 24, 1876"
-"Salinas","City","Monterey",163542,150441,23.52,TRUE,"March 4, 1874"
-"San Anselmo","Town","Marin",12830,12336,2.68,FALSE,"April 9, 1907"
-"San Bernardino","City","San Bernardino",222101,209924,62.13,TRUE,"August 10, 1869"
-"San Bruno","City","San Mateo",43908,41114,5.49,FALSE,"December 23, 1914"
-"San Carlos","City","San Mateo",30722,28406,5.41,FALSE,"July 8, 1925"
-"San Clemente","City","Orange",64293,63522,18.36,FALSE,"February 28, 1928"
-"San Diego","City","San Diego",1386932,1307402,325.88,TRUE,"March 27, 1850"
-"San Dimas","City","Los Angeles",34924,33371,15.03,FALSE,"August 4, 1960"
-"San Fernando","City","Los Angeles",23946,23645,2.37,FALSE,"August 31, 1911"
-"San Francisco","City and county","San Francisco",873965,805235,46.91,TRUE,"April 15, 1850[13]"
-"San Gabriel","City","Los Angeles",39568,39718,4.14,FALSE,"April 24, 1913"
-"San Jacinto","City","Riverside",53898,44199,25.96,FALSE,"April 20, 1888"
-"San Joaquin","City","Fresno",3701,4001,1.2,FALSE,"February 14, 1920"
-"San Jose","City","Santa Clara",1013240,945942,178.26,TRUE,"March 27, 1850"
-"San Juan Bautista","City","San Benito",2089,1862,0.79,FALSE,"May 4, 1896"
-"San Juan Capistrano","City","Orange",35196,34593,14.43,FALSE,"April 19, 1961"
-"San Leandro","City","Alameda",91008,84950,13.32,FALSE,"March 21, 1872"
-"San Luis Obispo","City","San Luis Obispo",47063,45119,13.31,TRUE,"February 16, 1856"
-"San Marcos","City","San Diego",94833,83781,24.36,FALSE,"January 28, 1963"
-"San Marino","City","Los Angeles",12513,13147,3.77,FALSE,"April 25, 1913"
-"San Mateo","City","San Mateo",105661,97207,12.13,FALSE,"September 4, 1894"
-"San Pablo","City","Contra Costa",32127,29139,2.62,FALSE,"April 27, 1948"
-"San Rafael","City","Marin",61271,57713,16.59,TRUE,"February 18, 1874"
-"San Ramon","City","Contra Costa",84605,72148,18.69,FALSE,"July 1, 1983"
-"Sand City","City","Monterey",325,334,0.55,FALSE,"May 31, 1960"
-"Sanger","City","Fresno",26617,24270,5.77,FALSE,"May 9, 1911"
-"Santa Ana","City","Orange",310227,324528,27.34,TRUE,"June 1, 1886"
-"Santa Barbara","City","Santa Barbara",88665,88410,19.51,TRUE,"April 9, 1850"
-"Santa Clara","City","Santa Clara",127647,116468,18.28,FALSE,"July 5, 1852"
-"Santa Clarita","City","Los Angeles",228673,176320,70.75,FALSE,"December 15, 1987"
-"Santa Cruz","City","Santa Cruz",62956,59946,12.74,TRUE,"March 31, 1866"
-"Santa Fe Springs","City","Los Angeles",19219,16223,8.86,FALSE,"May 15, 1957"
-"Santa Maria","City","Santa Barbara",109707,99553,22.81,FALSE,"September 12, 1905"
-"Santa Monica","City","Los Angeles",93076,89736,8.41,FALSE,"November 30, 1886"
-"Santa Paula","City","Ventura",30657,29321,5.53,FALSE,"April 22, 1902"
-"Santa Rosa","City","Sonoma",178127,167815,42.53,TRUE,"March 26, 1868"
-"Santee","City","San Diego",60037,53413,16.54,FALSE,"December 1, 1980"
-"Saratoga","City","Santa Clara",31051,29926,12.78,FALSE,"October 22, 1956"
-"Sausalito","City","Marin",7269,7061,1.76,FALSE,"September 4, 1893"
-"Scotts Valley","City","Santa Cruz",12224,11580,4.62,FALSE,"August 2, 1966"
-"Seal Beach","City","Orange",25242,24168,11.27,FALSE,"October 27, 1915"
-"Seaside","City","Monterey",32366,33025,8.92,FALSE,"October 13, 1954"
-"Sebastopol","City","Sonoma",7521,7379,1.88,FALSE,"June 13, 1902"
-"Selma","City","Fresno",24674,23219,5.81,FALSE,"March 15, 1893"
-"Shafter","City","Kern",19953,16988,38.7,FALSE,"January 20, 1938"
-"Shasta Lake","City","Shasta",10371,10164,10.92,FALSE,"July 2, 1993"
-"Sierra Madre","City","Los Angeles",11268,10917,2.95,FALSE,"February 2, 1907"
-"Signal Hill","City","Los Angeles",11848,11016,2.19,FALSE,"April 22, 1924"
-"Simi Valley","City","Ventura",126356,124237,41.55,FALSE,"October 10, 1969"
-"Solana Beach","City","San Diego",12941,12867,3.41,FALSE,"July 1, 1986"
-"Soledad","City","Monterey",24925,25738,4.46,FALSE,"March 9, 1921"
-"Solvang","City","Santa Barbara",6126,5245,2.43,FALSE,"May 1, 1985"
-"Sonoma","City","Sonoma",10739,10648,2.74,FALSE,"September 3, 1883"
-"Sonora","City","Tuolumne",5003,4903,3.16,TRUE,"May 1, 1851"
-"South El Monte","City","Los Angeles",19567,20116,2.84,FALSE,"July 30, 1958"
-"South Gate","City","Los Angeles",92726,94396,7.24,FALSE,"January 20, 1923"
-"South Lake Tahoe","City","El Dorado",21330,21403,10.19,FALSE,"November 30, 1965"
-"South Pasadena","City","Los Angeles",26943,25619,3.41,FALSE,"March 2, 1888"
-"South San Francisco","City","San Mateo",66105,63632,9.2,FALSE,"September 19, 1908"
-"Stanton","City","Orange",37962,38186,3.1,FALSE,"June 4, 1956"
-"Stockton","City","San Joaquin",320804,291707,62.21,TRUE,"July 23, 1850"
-"Suisun City","City","Solano",29518,28111,4.01,FALSE,"October 9, 1868"
-"Sunnyvale","City","Santa Clara",155805,140081,22.06,FALSE,"December 24, 1912"
-"Susanville","City","Lassen",16728,17947,7.92,TRUE,"August 24, 1900"
-"Sutter Creek","City","Amador",2646,2501,2.7,FALSE,"February 11, 1913"
-"Taft","City","Kern",8546,9327,15.27,FALSE,"November 7, 1910"
-"Tehachapi","City","Kern",12939,14414,10.26,FALSE,"August 13, 1909"
-"Tehama","City","Tehama",435,418,0.79,FALSE,"July 5, 1906"
-"Temecula","City","Riverside",110003,100097,37.27,FALSE,"December 1, 1989"
-"Temple City","City","Los Angeles",36494,35558,4,FALSE,"May 25, 1960"
-"Thousand Oaks","City","Ventura",126966,126683,55.26,FALSE,"October 7, 1964"
-"Tiburon","Town","Marin",9146,8962,4.48,FALSE,"June 23, 1964"
-"Torrance","City","Los Angeles",147067,145538,20.52,FALSE,"May 21, 1921"
-"Tracy","City","San Joaquin",93000,82922,25.89,FALSE,"July 22, 1910"
-"Trinidad","City","Humboldt",307,367,0.49,FALSE,"November 7, 1870"
-"Truckee","Town","Nevada",16729,16180,32.33,FALSE,"March 23, 1993"
-"Tulare","City","Tulare",68875,59278,20.39,FALSE,"April 5, 1888"
-"Tulelake","City","Siskiyou",902,1010,0.41,FALSE,"March 1, 1937"
-"Turlock","City","Stanislaus",72740,68549,16.91,FALSE,"February 15, 1908"
-"Tustin","City","Orange",80276,75540,11.16,FALSE,"September 21, 1927"
-"Twentynine Palms","City","San Bernardino",28065,25048,58.75,FALSE,"November 23, 1987"
-"Ukiah","City","Mendocino",16607,16075,4.78,TRUE,"March 8, 1876"
-"Union City","City","Alameda",70143,69516,19.18,FALSE,"January 26, 1959"
-"Upland","City","San Bernardino",79040,73732,15.58,FALSE,"May 15, 1906"
-"Vacaville","City","Solano",102386,92428,29.87,FALSE,"August 9, 1892"
-"Vallejo","City","Solano",126090,115942,30.42,FALSE,"March 30, 1868"
-"Ventura","City","Ventura",110763,106433,21.89,TRUE,"April 2, 1866"
-"Vernon","City","Los Angeles",222,112,4.98,FALSE,"September 22, 1905"
-"Victorville","City","San Bernardino",134810,115903,73.71,FALSE,"September 21, 1962"
-"Villa Park","City","Orange",5843,5812,2.08,FALSE,"January 11, 1962"
-"Visalia","City","Tulare",141384,124442,37.94,TRUE,"February 27, 1874"
-"Vista","City","San Diego",98381,93834,18.75,FALSE,"January 28, 1963"
-"Walnut","City","Los Angeles",28430,29172,8.99,FALSE,"January 19, 1959"
-"Walnut Creek","City","Contra Costa",70127,64173,19.76,FALSE,"October 21, 1914"
-"Wasco","City","Kern",27047,25545,9.39,FALSE,"December 22, 1945"
-"Waterford","City","Stanislaus",9120,8456,2.36,FALSE,"November 7, 1969"
-"Watsonville","City","Santa Cruz",52590,51199,6.71,FALSE,"March 30, 1868"
-"Weed","City","Siskiyou",2862,2967,4.82,FALSE,"January 25, 1961"
-"West Covina","City","Los Angeles",109501,106098,16.04,FALSE,"February 17, 1923"
-"West Hollywood","City","Los Angeles",35757,34399,1.89,FALSE,"November 29, 1984"
-"West Sacramento","City","Yolo",53915,48744,21.47,FALSE,"January 1, 1987"
-"Westlake Village","City","Los Angeles",8029,8270,5.19,FALSE,"December 11, 1981"
-"Westminster","City","Orange",90911,89701,10.04,FALSE,"March 27, 1957"
-"Westmorland","City","Imperial",2014,2225,0.59,FALSE,"June 30, 1934"
-"Wheatland","City","Yuba",3712,3456,8.12,FALSE,"April 23, 1874"
-"Whittier","City","Los Angeles",87306,85331,14.65,FALSE,"February 25, 1898"
-"Wildomar","City","Riverside",36875,32176,23.7,FALSE,"July 1, 2008"
-"Williams","City","Colusa",5538,5123,4.95,FALSE,"May 17, 1920"
-"Willits","City","Mendocino",4988,4888,2.82,FALSE,"November 19, 1888"
-"Willows","City","Glenn",6293,6166,2.84,TRUE,"January 16, 1886"
-"Windsor","Town","Sonoma",26344,26801,7.44,FALSE,"July 1, 1992"
-"Winters","City","Yolo",7115,6624,2.94,FALSE,"February 9, 1898"
-"Woodlake","City","Tulare",7419,7279,2.61,FALSE,"September 23, 1941"
-"Woodland","City","Yolo",61032,55468,15.32,TRUE,"February 22, 1871"
-"Woodside","Town","San Mateo",5309,5287,11.47,FALSE,"November 16, 1956"
-"Yorba Linda","City","Orange",68336,64234,19.95,FALSE,"November 2, 1967"
-"Yountville","Town","Napa",3436,2933,1.49,FALSE,"February 4, 1965"
-"Yreka","City","Siskiyou",7807,7765,9.99,TRUE,"April 21, 1857"
-"Yuba City","City","Sutter",70117,64925,14.98,TRUE,"January 23, 1908"
-"Yucaipa","City","San Bernardino",54542,51367,28.27,FALSE,"November 27, 1989"
-"Yucca Valley","Town","San Bernardino",21738,20700,39.83,FALSE,"November 27, 1991"
+"city_name","type","county","pop_2020","pop_2010","area_mi2","county_seat","incorporation_date","google_lat","google_lng"
+"Adelanto","City","San Bernardino",38046,31765,52.87,FALSE,"December 22, 1970",34.5827699,-117.409215
+"Agoura Hills","City","Los Angeles",20299,20330,7.8,FALSE,"December 8, 1982",34.1533395,-118.7616764
+"Alameda","City","Alameda",78280,73812,10.45,FALSE,"April 19, 1854",37.7798721,-122.2821855
+"Albany","City","Alameda",20271,18539,1.79,FALSE,"September 22, 1908",37.886704,-122.2977557
+"Alhambra","City","Los Angeles",82868,83089,7.63,FALSE,"July 11, 1903",34.0927549,-118.1268211
+"Aliso Viejo","City","Orange",52176,47823,6.93,FALSE,"July 1, 2001",33.5684605,-117.7262981
+"Alturas","City","Modoc",2715,2827,2.84,TRUE,"September 16, 1901",41.4871146,-120.5424555
+"Amador City","City","Amador",200,185,0.31,FALSE,"June 2, 1915",38.4193553,-120.824103
+"American Canyon","City","Napa",21837,19454,6.09,FALSE,"January 1, 1992",38.1749178,-122.2608044
+"Anaheim","City","Orange",346824,336265,50.27,FALSE,"March 18, 1876",33.8365932,-117.9143012
+"Anderson","City","Shasta",11323,9932,7.03,FALSE,"January 16, 1956",40.448208,-122.2977815
+"Angels Camp","City","Calaveras",3667,3836,3.63,FALSE,"January 16, 1912",38.0683329,-120.5391513
+"Antioch","City","Contra Costa",115291,102372,29.17,FALSE,"February 6, 1872",38.0049214,-121.805789
+"Apple Valley","Town","San Bernardino",75791,69135,77.01,FALSE,"November 28, 1988",34.5008311,-117.1858759
+"Arcadia","City","Los Angeles",56681,56364,10.93,FALSE,"August 5, 1903",34.1397292,-118.0353449
+"Arcata","City","Humboldt",18857,17231,9.42,FALSE,"February 2, 1858",40.8665166,-124.0828396
+"Arroyo Grande","City","San Luis Obispo",18441,17252,5.94,FALSE,"July 10, 1911",35.1185868,-120.5907252
+"Artesia","City","Los Angeles",16395,16522,1.62,FALSE,"May 29, 1959",33.8658484,-118.0831212
+"Arvin","City","Kern",19495,19304,4.82,FALSE,"December 21, 1960",35.2017986,-118.833105
+"Atascadero","City","San Luis Obispo",29773,28310,26.07,FALSE,"July 2, 1979",35.4894169,-120.6707255
+"Atherton","Town","San Mateo",7188,6914,5.02,FALSE,"September 12, 1923",37.4613272,-122.197743
+"Atwater","City","Merced",31970,28168,6.57,FALSE,"August 16, 1922",37.3477174,-120.609084
+"Auburn","City","Placer",13776,13330,7.18,TRUE,"May 2, 1888",38.8965654,-121.0768901
+"Avalon","City","Los Angeles",3460,3728,2.89,FALSE,"June 26, 1913",33.3428193,-118.3282279
+"Avenal","City","Kings",13696,15505,19.48,FALSE,"September 11, 1979",36.0041223,-120.1290272
+"Azusa","City","Los Angeles",50000,46361,9.66,FALSE,"December 29, 1898",34.1336186,-117.9075627
+"Bakersfield","City","Kern",403455,347483,149.78,TRUE,"January 11, 1898",35.3735112,-119.0204707
+"Baldwin Park","City","Los Angeles",72176,75390,6.63,FALSE,"January 25, 1956",34.0852868,-117.9608978
+"Banning","City","Riverside",29505,29603,23.24,FALSE,"February 6, 1913",33.9254488,-116.8767467
+"Barstow","City","San Bernardino",25415,22639,41.3,FALSE,"September 30, 1947",34.8957957,-117.0172826
+"Beaumont","City","Riverside",53036,36877,30.32,FALSE,"November 18, 1912",33.9294606,-116.977248
+"Bell","City","Los Angeles",33559,35477,2.51,FALSE,"November 7, 1927",33.9775142,-118.1870156
+"Bell Gardens","City","Los Angeles",39501,42072,2.46,FALSE,"August 1, 1961",33.9652918,-118.1514588
+"Bellflower","City","Los Angeles",79190,76616,6.12,FALSE,"September 3, 1957",33.8816818,-118.1170117
+"Belmont","City","San Mateo",28335,25835,4.63,FALSE,"October 29, 1926",37.5202145,-122.2758008
+"Belvedere","City","Marin",2126,2068,0.52,FALSE,"December 24, 1896",37.8727044,-122.4644171
+"Benicia","City","Solano",27131,26997,12.81,FALSE,"March 27, 1850",38.049365,-122.1585777
+"Berkeley","City","Alameda",124321,112580,10.43,FALSE,"April 4, 1878",37.8715226,-122.273042
+"Beverly Hills","City","Los Angeles",32701,34109,5.71,FALSE,"January 28, 1914",34.0730715,-118.4016265
+"Big Bear Lake","City","San Bernardino",5046,5019,6.24,FALSE,"November 28, 1980",34.2438963,-116.9114215
+"Biggs","City","Butte",1964,1707,0.9,FALSE,"June 26, 1903",39.4123876,-121.7127513
+"Bishop","City","Inyo",3819,3879,1.86,FALSE,"May 6, 1903",37.3613936,-118.395236
+"Blue Lake","City","Humboldt",1208,1253,0.59,FALSE,"April 23, 1910",40.8829072,-123.9839488
+"Blythe","City","Riverside",18317,20817,26.58,FALSE,"July 21, 1916",33.6177725,-114.5882607
+"Bradbury","City","Los Angeles",921,1048,1.96,FALSE,"July 26, 1957",34.1469511,-117.9708982
+"Brawley","City","Imperial",26416,24953,8.12,FALSE,"April 6, 1908",32.9786566,-115.530267
+"Brea","City","Orange",47325,39282,12.17,FALSE,"February 23, 1917",33.916475,-117.9002918
+"Brentwood","City","Contra Costa",64292,51481,14.87,FALSE,"January 21, 1948",37.931868,-121.6957863
+"Brisbane","City","San Mateo",4851,4282,2.99,FALSE,"November 27, 1961",37.6847648,-122.4023808
+"Buellton","City","Santa Barbara",5161,4828,1.58,FALSE,"February 1, 1992",34.613597,-120.1926505
+"Buena Park","City","Orange",84034,80530,10.53,FALSE,"January 27, 1953",33.8674044,-117.9981387
+"Burbank","City","Los Angeles",107337,103340,17.32,FALSE,"July 8, 1911",34.1820605,-118.3074827
+"Burlingame","City","San Mateo",31386,28806,4.39,FALSE,"June 6, 1908",37.5778696,-122.34809
+"Calabasas","City","Los Angeles",23241,23058,13.71,FALSE,"April 5, 1991",34.1539731,-118.6473801
+"Calexico","City","Imperial",38633,38572,8.62,FALSE,"April 16, 1908",32.6789476,-115.4988834
+"California City","City","Kern",14973,14120,203.61,FALSE,"December 10, 1965",35.125801,-117.9859038
+"Calimesa","City","Riverside",10026,7879,14.86,FALSE,"December 1, 1990",34.0039039,-117.0619755
+"Calipatria","City","Imperial",6515,7705,3.7,FALSE,"February 28, 1919",33.1255957,-115.5141538
+"Calistoga","City","Napa",5228,5155,2.58,FALSE,"January 6, 1886",38.5787965,-122.5797054
+"Camarillo","City","Ventura",70741,65201,19.69,FALSE,"March 28, 1964",34.2163937,-119.0376023
+"Campbell","City","Santa Clara",43959,39349,6.08,FALSE,"March 28, 1952",37.2871651,-121.9499568
+"Canyon Lake","City","Riverside",11082,10561,3.92,FALSE,"December 1, 1990",33.6850215,-117.2730931
+"Capitola","City","Santa Cruz",9938,9918,1.59,FALSE,"January 11, 1949",36.9752283,-121.953293
+"Carlsbad","City","San Diego",114746,105328,37.77,FALSE,"July 16, 1952",33.1640648,-117.3410819
+"Carmel-by-the-Sea","City","Monterey",3220,3722,1.06,FALSE,"October 31, 1916",36.5552386,-121.9232879
+"Carpinteria","City","Santa Barbara",13264,13040,2.59,FALSE,"September 28, 1965",34.3988838,-119.5184564
+"Carson","City","Los Angeles",95558,91714,18.73,FALSE,"February 20, 1968",33.8316745,-118.281693
+"Cathedral City","City","Riverside",51493,51200,22.49,FALSE,"November 16, 1981",33.7805388,-116.4668036
+"Ceres","City","Stanislaus",49302,45417,9.5,FALSE,"February 25, 1918",37.5947202,-120.9568815
+"Cerritos","City","Los Angeles",49578,49041,8.73,FALSE,"April 24, 1956",33.8659295,-118.0638802
+"Chico","City","Butte",101475,86187,34.14,FALSE,"January 8, 1872",39.7282839,-121.8379978
+"Chino","City","San Bernardino",91403,77983,29.61,FALSE,"February 28, 1910",34.0136813,-117.6905621
+"Chino Hills","City","San Bernardino",78411,74799,44.65,FALSE,"December 1, 1991",33.9898188,-117.7325848
+"Chowchilla","City","Madera",19039,18720,11.09,FALSE,"February 7, 1923",37.1229997,-120.2601754
+"Chula Vista","City","San Diego",275487,243916,49.64,FALSE,"November 28, 1911",32.6400541,-117.0841955
+"Citrus Heights","City","Sacramento",87583,83301,14.22,FALSE,"January 1, 1997",38.6782547,-121.292459
+"City of Industry","City","Los Angeles",264,219,11.78,FALSE,"June 18, 1957",34.0197335,-117.9586754
+"Claremont","City","Los Angeles",37266,34926,13.34,FALSE,"October 3, 1907",34.0966764,-117.7197785
+"Clayton","City","Contra Costa",11070,10897,3.84,FALSE,"March 18, 1964",37.9410341,-121.9357925
+"Clearlake","City","Lake",16685,15250,10.13,FALSE,"November 14, 1980",38.961809,-122.6312972
+"Cloverdale","City","Sonoma",8996,8618,3.14,FALSE,"February 28, 1872",38.8054624,-123.0172227
+"Clovis","City","Fresno",120124,95631,25.42,FALSE,"February 27, 1912",36.8252277,-119.7029194
+"Coachella","City","Riverside",41941,40704,30.08,FALSE,"December 13, 1946",33.6803003,-116.173894
+"Coalinga","City","Fresno",17590,13380,6.85,FALSE,"April 3, 1906",36.1397611,-120.3603062
+"Colfax","City","Placer",1995,1963,1.41,FALSE,"February 23, 1910",39.1007298,-120.9532759
+"Colma","Town","San Mateo",1507,1792,1.89,FALSE,"August 5, 1924",37.6749036,-122.4561533
+"Colton","City","San Bernardino",53909,52154,15.55,FALSE,"July 11, 1887",34.0739016,-117.3136547
+"Colusa","City","Colusa",6411,5971,3.42,TRUE,"June 16, 1868",39.2143343,-122.0094175
+"Commerce","City","Los Angeles",12378,12823,6.53,FALSE,"January 28, 1960",34.0005691,-118.1597929
+"Compton","City","Los Angeles",95740,96455,10.03,FALSE,"May 11, 1888",33.8959097,-118.2243901
+"Concord","City","Contra Costa",125410,122067,30.55,FALSE,"February 9, 1905",37.9817195,-122.025904
+"Corcoran","City","Kings",22339,24813,7.46,FALSE,"August 11, 1914",36.098007,-119.5604015
+"Corning","City","Tehama",8244,7663,3.55,FALSE,"August 6, 1907",39.9276572,-122.1791556
+"Corona","City","Riverside",157136,152374,39.94,FALSE,"July 13, 1896",33.8787742,-117.5760323
+"Coronado","City","San Diego",20192,18912,7.81,FALSE,"December 11, 1890",32.6859012,-117.1798603
+"Corte Madera","Town","Marin",10222,9253,3.16,FALSE,"June 10, 1916",37.9254806,-122.5274755
+"Costa Mesa","City","Orange",111918,109960,15.81,FALSE,"June 29, 1953",33.6638439,-117.9047429
+"Cotati","City","Sonoma",7584,7265,1.87,FALSE,"July 16, 1963",38.3293416,-122.7096666
+"Covina","City","Los Angeles",51268,47796,7.04,FALSE,"August 14, 1901",34.0900091,-117.8903397
+"Crescent City","City","Del Norte",6673,7643,1.96,TRUE,"April 13, 1854",41.7557501,-124.2025913
+"Cudahy","City","Los Angeles",22811,23805,1.18,FALSE,"November 10, 1960",33.9608646,-118.1857858
+"Culver City","City","Los Angeles",40779,38883,5.11,FALSE,"September 7, 1917",34.0211416,-118.3968001
+"Cupertino","City","Santa Clara",60381,58302,11.33,FALSE,"October 10, 1955",37.3229978,-122.0321823
+"Cypress","City","Orange",50151,47802,6.61,FALSE,"July 24, 1956",33.8169366,-118.0368507
+"Daly City","City","San Mateo",104901,101123,7.64,FALSE,"March 22, 1911",37.6879241,-122.4702079
+"Dana Point","City","Orange",33107,33351,6.49,FALSE,"January 1, 1989",33.4672256,-117.6981014
+"Danville","Town","Contra Costa",43582,42039,18.08,FALSE,"July 1, 1982",37.8215929,-121.9999606
+"Davis","City","Yolo",66850,65622,9.97,FALSE,"March 28, 1917",38.5449065,-121.7405167
+"Del Mar","City","San Diego",3954,4161,1.72,FALSE,"July 15, 1959",32.9594891,-117.2653146
+"Del Rey Oaks","City","Monterey",1592,1624,1.05,FALSE,"September 3, 1953",36.5932934,-121.8349515
+"Delano","City","Kern",51428,53041,14.72,FALSE,"April 13, 1915",35.7688425,-119.2470536
+"Desert Hot Springs","City","Riverside",32512,25938,30.27,FALSE,"September 25, 1963",33.9615186,-116.5013793
+"Diamond Bar","City","Los Angeles",55072,55544,14.87,FALSE,"April 18, 1989",34.0009951,-117.8112041
+"Dinuba","City","Tulare",24563,21453,6.51,FALSE,"January 6, 1906",36.5432837,-119.3870656
+"Dixon","City","Solano",18988,18351,7.1,FALSE,"March 30, 1878",38.4454641,-121.8232958
+"Dorris","City","Siskiyou",860,939,0.7,FALSE,"December 23, 1908",41.9673696,-121.91806
+"Dos Palos","City","Merced",5798,4950,1.35,FALSE,"May 24, 1935",36.9860582,-120.6265722
+"Downey","City","Los Angeles",114355,111772,12.41,FALSE,"December 17, 1956",33.9401088,-118.1331593
+"Duarte","City","Los Angeles",21727,21321,6.71,FALSE,"August 22, 1957",34.1394513,-117.9772873
+"Dublin","City","Alameda",72589,46036,15.23,FALSE,"February 1, 1982",37.7049108,-121.9096158
+"Dunsmuir","City","Siskiyou",1707,1650,1.6,FALSE,"August 7, 1909",41.2082089,-122.2719529
+"East Palo Alto","City","San Mateo",30034,28155,2.53,FALSE,"July 1, 1983",37.4688273,-122.1410751
+"Eastvale","City","Riverside[11]",69757,53670,12.67,FALSE,"October 1, 2010",33.9672152,-117.567051
+"El Cajon","City","San Diego",106215,99478,14.51,FALSE,"November 12, 1912",32.7947731,-116.9625269
+"El Centro","City","Imperial",44322,42598,11.84,TRUE,"April 16, 1908",32.792,-115.5630514
+"El Cerrito","City","Contra Costa",25962,23549,3.67,FALSE,"August 23, 1917",37.9161326,-122.310765
+"El Monte","City","Los Angeles",109450,113475,9.56,FALSE,"November 18, 1912",34.0726865,-118.0322819
+"El Segundo","City","Los Angeles",17272,16654,5.46,FALSE,"January 18, 1917",33.9191799,-118.4164652
+"Elk Grove","City","Sacramento",176124,153015,41.99,FALSE,"July 1, 2000",38.4089538,-121.3788635
+"Emeryville","City","Alameda",12905,10080,1.27,FALSE,"December 8, 1896",37.8395028,-122.2892278
+"Encinitas","City","San Diego",62007,59518,19.06,FALSE,"October 1, 1986",33.0369867,-117.2919818
+"Escalon","City","San Joaquin",7472,7132,2.28,FALSE,"March 12, 1957",37.7974273,-120.9966033
+"Escondido","City","San Diego",151038,143911,37.35,FALSE,"October 8, 1888",33.1192068,-117.086421
+"Etna","City","Siskiyou",678,737,0.76,FALSE,"March 13, 1878",41.4568065,-122.8947551
+"Eureka","City","Humboldt",26512,27191,9.54,TRUE,"April 18, 1856",40.8020712,-124.1636729
+"Exeter","City","Tulare",10321,10334,2.46,FALSE,"March 2, 1911",36.2960613,-119.1420517
+"Fairfax","Town","Marin",7605,7441,2.23,FALSE,"March 2, 1931",37.9871454,-122.5888686
+"Fairfield","City","Solano",119881,105321,41.59,TRUE,"December 12, 1903",38.2491956,-122.0405151
+"Farmersville","City","Tulare",10397,10588,2.2,FALSE,"October 5, 1960",36.2977283,-119.2067767
+"Ferndale","City","Humboldt",1398,1371,1.2,FALSE,"August 28, 1893",40.5762406,-124.2639442
+"Fillmore","City","Ventura",16419,15002,3.3,FALSE,"July 10, 1914",34.3991639,-118.918154
+"Firebaugh","City","Fresno",8096,7549,3.52,FALSE,"September 17, 1914",36.8588376,-120.4560072
+"Folsom","City","Sacramento",80454,72203,27.88,FALSE,"April 20, 1946",38.6719495,-121.1612945
+"Fontana","City","San Bernardino",208393,196069,43.07,FALSE,"June 25, 1952",34.0922335,-117.435048
+"Fort Bragg","City","Mendocino",6983,7273,2.9,FALSE,"August 5, 1889",39.445723,-123.8052935
+"Fort Jones","City","Siskiyou",695,839,0.6,FALSE,"March 16, 1872",41.6076387,-122.8403099
+"Fortuna","City","Humboldt",12516,11926,5.25,FALSE,"January 20, 1906",40.5981867,-124.1572756
+"Foster City","City","San Mateo",33805,30567,3.79,FALSE,"April 27, 1971",37.5585465,-122.2710788
+"Fountain Valley","City","Orange",57047,55313,9.07,FALSE,"June 13, 1957",33.7090212,-117.9544069
+"Fowler","City","Fresno",6700,5570,2.53,FALSE,"June 15, 1908",36.6305058,-119.6784697
+"Fremont","City","Alameda",230504,214089,78.31,FALSE,"January 23, 1956",37.5485396,-121.988583
+"Fresno","City","Fresno",542107,494665,115.18,TRUE,"October 12, 1885",36.7377981,-119.7871247
+"Fullerton","City","Orange",143617,135161,22.42,FALSE,"February 15, 1904",33.8703645,-117.9242123
+"Galt","City","Sacramento",25383,23647,7.15,FALSE,"August 16, 1946",38.2548197,-121.3006492
+"Garden Grove","City","Orange",171949,170883,17.96,FALSE,"June 18, 1956",33.7742692,-117.9379952
+"Gardena","City","Los Angeles",61027,58829,5.83,FALSE,"September 11, 1930",33.8837294,-118.3091185
+"Gilroy","City","Santa Clara",59520,48821,16.54,FALSE,"March 12, 1870",37.0029828,-121.5566373
+"Glendale","City","Los Angeles",196543,191719,30.48,FALSE,"February 15, 1906",34.1463674,-118.2488703
+"Glendora","City","Los Angeles",52558,50073,19.51,FALSE,"November 13, 1911",34.1361187,-117.865339
+"Goleta","City","Santa Barbara",32690,29888,7.85,FALSE,"February 1, 2002",34.4358294,-119.8276389
+"Gonzales","City","Monterey",8647,8187,1.91,FALSE,"January 14, 1947",36.5066295,-121.4443806
+"Grand Terrace","City","San Bernardino",13150,12040,3.5,FALSE,"November 30, 1978",34.0339031,-117.3136544
+"Grass Valley","City","Nevada",14016,12860,5.25,FALSE,"March 13, 1893",39.2190608,-121.0610606
+"Greenfield","City","Monterey",18937,16330,2.91,FALSE,"January 7, 1947",36.3207998,-121.2438138
+"Gridley","City","Butte",7421,6584,2.09,FALSE,"November 23, 1905",39.3637773,-121.6935833
+"Grover Beach","City","San Luis Obispo",12701,13156,2.31,FALSE,"December 21, 1959",35.1216424,-120.6212821
+"Guadalupe","City","Santa Barbara",8057,7080,1.31,FALSE,"August 3, 1946",34.971644,-120.5718363
+"Gustine","City","Merced",6110,5520,1.55,FALSE,"November 11, 1915",37.2577171,-120.9988154
+"Half Moon Bay","City","San Mateo",11795,11324,6.24,FALSE,"July 15, 1959",37.4635519,-122.4285862
+"Hanford","City","Kings",57990,53967,17.4,TRUE,"August 12, 1891",36.3274502,-119.6456844
+"Hawaiian Gardens","City","Los Angeles",14149,14254,0.95,FALSE,"April 9, 1964",33.8314045,-118.0728424
+"Hawthorne","City","Los Angeles",88083,84293,6.09,FALSE,"July 12, 1922",33.9164032,-118.3525748
+"Hayward","City","Alameda",162954,144186,45.82,FALSE,"March 11, 1876",37.6687665,-122.0809964
+"Healdsburg","City","Sonoma",11340,11254,4.42,FALSE,"February 20, 1867",38.6081693,-122.8700509
+"Hemet","City","Riverside",89833,78657,29.28,FALSE,"January 20, 1910",33.7475203,-116.9719684
+"Hercules","City","Contra Costa",26016,24060,6.41,FALSE,"December 15, 1900",38.0171441,-122.2885808
+"Hermosa Beach","City","Los Angeles",19728,19506,1.43,FALSE,"January 14, 1907",33.8622366,-118.3995194
+"Hesperia","City","San Bernardino",99818,90173,72.68,FALSE,"July 1, 1988",34.4237122,-117.315605
+"Hidden Hills","City","Los Angeles",1725,1856,1.69,FALSE,"January 19, 1961",34.1648798,-118.6647537
+"Highland","City","San Bernardino",56999,53104,18.57,FALSE,"November 24, 1987",34.1211873,-117.2015791
+"Hillsborough","Town","San Mateo",11387,10825,6.17,FALSE,"May 5, 1910",37.5741032,-122.3794163
+"Hollister","City","San Benito",41678,34928,7.96,TRUE,"March 26, 1872",36.8524545,-121.4016021
+"Holtville","City","Imperial",5605,5939,1.15,FALSE,"July 1, 1908",32.8111612,-115.3802643
+"Hughson","City","Stanislaus",7481,6640,1.91,FALSE,"December 9, 1972",37.6020139,-120.8653488
+"Huntington Beach","City","Orange",198711,189992,27,FALSE,"February 17, 1909",33.6594835,-117.9988026
+"Huntington Park","City","Los Angeles",54883,58114,3.01,FALSE,"September 1, 1906",33.9792805,-118.2191062
+"Huron","City","Fresno",6206,6754,1.6,FALSE,"May 3, 1951",36.2027308,-120.1029177
+"Imperial","City","Imperial",20263,14758,6.29,FALSE,"July 12, 1904",32.8475528,-115.5694391
+"Imperial Beach","City","San Diego",26137,26324,4.29,FALSE,"July 18, 1956",32.5839444,-117.1130849
+"Indian Wells","City","Riverside",4757,4958,14.32,FALSE,"July 14, 1967",33.717631,-116.3407549
+"Indio","City","Riverside",89137,76036,33.23,FALSE,"May 16, 1930",33.7205771,-116.2155619
+"Inglewood","City","Los Angeles",107762,109673,9.07,FALSE,"February 7, 1908",33.9617977,-118.3533544
+"Ione","City","Amador",5141,7918,4.58,FALSE,"March 23, 1953",38.3526912,-120.9327177
+"Irvine","City","Orange",307670,212375,65.61,FALSE,"December 28, 1971",33.6845673,-117.8265049
+"Irwindale","City","Los Angeles",1472,1422,8.83,FALSE,"August 6, 1957",34.1069527,-117.9353413
+"Isleton","City","Sacramento",794,804,0.44,FALSE,"May 14, 1923",38.1618052,-121.6115432
+"Jackson","City","Amador",5019,4651,3.58,TRUE,"December 5, 1905",38.3488023,-120.7741018
+"Jurupa Valley","City","Riverside[12]",105053,95004,42.94,FALSE,"July 1, 2011",33.9942737,-117.4971606
+"Kerman","City","Fresno",16016,13544,3.27,FALSE,"July 2, 1946",36.7235572,-120.059879
+"King City","City","Monterey",13332,12874,3.8,FALSE,"February 9, 1911",36.2127439,-121.1260287
+"Kingsburg","City","Fresno",12380,11382,3.72,FALSE,"May 29, 1908",36.5139516,-119.5541061
+"La Cañada Flintridge","City","Los Angeles",20573,20246,8.63,FALSE,"November 30, 1976",34.2068182,-118.2000277
+"La Habra","City","Orange",63097,60239,7.56,FALSE,"January 20, 1925",33.9318591,-117.946137
+"La Habra Heights","City","Los Angeles",5682,5325,6.16,FALSE,"December 4, 1978",33.9608461,-117.9506186
+"La Mesa","City","San Diego",61121,57065,9.09,FALSE,"February 16, 1912",32.7678287,-117.0230839
+"La Mirada","City","Los Angeles",48008,48527,7.82,FALSE,"March 23, 1960",33.9172357,-118.0120086
+"La Palma","City","Orange",15581,15568,1.78,FALSE,"October 26, 1955",33.8463218,-118.0461393
+"La Puente","City","Los Angeles",38062,39816,3.48,FALSE,"August 1, 1956",34.0200114,-117.9495083
+"La Quinta","City","Riverside",37558,37467,35.26,FALSE,"May 1, 1982",33.6633573,-116.3100095
+"La Verne","City","Los Angeles",31334,31063,8.42,FALSE,"August 20, 1906",34.1008426,-117.7678355
+"Lafayette","City","Contra Costa",25391,23893,15.02,FALSE,"July 29, 1968",37.8857582,-122.1180201
+"Laguna Beach","City","Orange",23032,22723,8.89,FALSE,"June 29, 1927",33.5427189,-117.7853568
+"Laguna Hills","City","Orange",31374,30344,6.55,FALSE,"December 20, 1991",33.5916433,-117.6986604
+"Laguna Niguel","City","Orange",64355,62979,14.74,FALSE,"December 1, 1989",33.5236744,-117.7149438
+"Laguna Woods","City","Orange",17644,16192,3.34,FALSE,"March 24, 1999",33.6101702,-117.7251162
+"Lake Elsinore","City","Riverside",70265,51821,38.24,FALSE,"April 9, 1888",33.6680447,-117.3276917
+"Lake Forest","City","Orange",85858,77264,16.71,FALSE,"December 20, 1991",33.6469437,-117.6861023
+"Lakeport","City","Lake",5026,4753,3.06,TRUE,"April 30, 1888",39.0429506,-122.9158293
+"Lakewood","City","Los Angeles",82496,80048,9.4,FALSE,"April 16, 1954",33.8508086,-118.1334072
+"Lancaster","City","Los Angeles",173516,156633,94.27,FALSE,"November 22, 1977",34.703947,-118.1481016
+"Larkspur","City","Marin",13064,11926,3,FALSE,"March 1, 1908",37.9340915,-122.5352539
+"Lathrop","City","San Joaquin",28701,18023,19.83,FALSE,"July 1, 1989",37.8227046,-121.27661
+"Lawndale","City","Los Angeles",31807,32769,1.97,FALSE,"December 28, 1959",33.887237,-118.3525744
+"Lemon Grove","City","San Diego",27627,25320,3.88,FALSE,"July 1, 1977",32.7425516,-117.0314172
+"Lemoore","City","Kings",27038,24531,8.81,FALSE,"July 4, 1900",36.3007835,-119.7829107
+"Lincoln","City","Placer",49757,42819,24.17,FALSE,"August 7, 1890",38.891565,-121.2930079
+"Lindsay","City","Tulare",12659,11768,2.72,FALSE,"February 28, 1910",36.2030064,-119.08816
+"Live Oak","City","Sutter",9106,8392,3.12,FALSE,"January 22, 1947",39.2757232,-121.6599701
+"Livermore","City","Alameda",87955,80968,26.45,FALSE,"April 1, 1876",37.6818688,-121.7684732
+"Livingston","City","Merced",14172,13058,3.68,FALSE,"September 11, 1922",37.3868826,-120.7235329
+"Lodi","City","San Joaquin",66348,62134,13.64,FALSE,"December 6, 1906",38.1341477,-121.2722194
+"Loma Linda","City","San Bernardino",24791,23261,7.64,FALSE,"September 29, 1970",34.0483474,-117.2611527
+"Lomita","City","Los Angeles",20921,20256,1.91,FALSE,"June 30, 1964",33.7922392,-118.3150722
+"Lompoc","City","Santa Barbara",44444,42434,11.62,FALSE,"August 13, 1888",34.6391501,-120.4579409
+"Long Beach","City","Los Angeles",466742,462257,50.71,FALSE,"December 13, 1897",33.7700504,-118.1937395
+"Loomis","Town","Placer",6836,6430,7.27,FALSE,"December 17, 1984",38.8212889,-121.1930041
+"Los Alamitos","City","Orange",11780,11449,4.01,FALSE,"March 1, 1960",33.8032009,-118.0718894
+"Los Altos","City","Santa Clara",31625,28976,6.54,FALSE,"December 1, 1952",37.3813639,-122.1142578
+"Los Altos Hills","Town","Santa Clara",8489,7922,9.03,FALSE,"January 27, 1956",37.3796627,-122.1374637
+"Los Angeles","City","Los Angeles",3898747,3792621,469.49,TRUE,"April 4, 1850",34.0549076,-118.242643
+"Los Banos","City","Merced",45532,35972,9.99,FALSE,"May 8, 1907",37.0582786,-120.8499151
+"Los Gatos","Town","Santa Clara",33529,29413,11.55,FALSE,"August 10, 1887",37.2358078,-121.9623751
+"Loyalton","City","Sierra",740,769,0.36,FALSE,"July 21, 1901",39.6762936,-120.2410385
+"Lynwood","City","Los Angeles",67265,69772,4.84,FALSE,"July 21, 1921",33.930293,-118.2114603
+"Madera","City","Madera",66224,61416,16.48,TRUE,"March 27, 1907",36.9613356,-120.0607176
+"Malibu","City","Los Angeles",10654,12645,19.85,FALSE,"March 28, 1991",34.0380585,-118.6923438
+"Mammoth Lakes","Town","Mono",7191,8234,24.87,FALSE,"August 20, 1984",37.648546,-118.972079
+"Manhattan Beach","City","Los Angeles",35506,35135,3.93,FALSE,"December 12, 1912",33.8881489,-118.4092903
+"Manteca","City","San Joaquin",83498,67096,21.39,FALSE,"June 5, 1918",37.7974273,-121.2160526
+"Maricopa","City","Kern",1026,1154,1.57,FALSE,"July 25, 1911",35.058858,-119.4009509
+"Marina","City","Monterey",22359,19718,8.91,FALSE,"November 13, 1975",36.6844029,-121.802173
+"Martinez","City","Contra Costa",37287,35824,12.63,TRUE,"April 1, 1876",38.0193657,-122.1341321
+"Marysville","City","Yuba",12844,12072,3.46,TRUE,"February 5, 1851",39.1457253,-121.5913547
+"Maywood","City","Los Angeles",25138,27395,1.17,FALSE,"September 2, 1924",33.9866807,-118.185349
+"McFarland","City","Kern",14161,12707,2.68,FALSE,"July 18, 1957",35.6780104,-119.2292748
+"Mendota","City","Fresno",12595,11014,3.39,FALSE,"June 17, 1942",36.7535611,-120.3815574
+"Menifee","City","Riverside",102527,77519,46.48,FALSE,"October 1, 2008",33.6971468,-117.185294
+"Menlo Park","City","San Mateo",33780,32026,9.99,FALSE,"November 23, 1927",37.4529598,-122.1817252
+"Merced","City","Merced",86333,78958,23.25,TRUE,"April 1, 1889",37.302947,-120.484268
+"Mill Valley","City","Marin",14231,13903,4.78,FALSE,"September 1, 1900",37.9003469,-122.5286567
+"Millbrae","City","San Mateo",23216,21532,3.27,FALSE,"January 14, 1948",37.5985468,-122.3871942
+"Milpitas","City","Santa Clara",80273,66790,13.48,FALSE,"January 26, 1954",37.4323341,-121.8995741
+"Mission Viejo","City","Orange",93653,93305,17.66,FALSE,"March 31, 1988",33.5968913,-117.6581562
+"Modesto","City","Stanislaus",218464,201165,43.05,TRUE,"August 6, 1884",37.6392595,-120.9970014
+"Monrovia","City","Los Angeles",37931,36590,13.63,FALSE,"December 15, 1887",34.1442616,-118.0019482
+"Montague","City","Siskiyou",1226,1443,1.78,FALSE,"January 28, 1909",41.7281985,-122.5278007
+"Montclair","City","San Bernardino",37865,36664,5.53,FALSE,"April 25, 1956",34.0775104,-117.6897776
+"Monte Sereno","City","Santa Clara",3479,3341,1.63,FALSE,"May 14, 1957",37.236333,-121.992458
+"Montebello","City","Los Angeles",62640,62500,8.33,FALSE,"October 16, 1920",34.019321,-118.116076
+"Monterey","City","Monterey",30218,27810,8.65,FALSE,"June 14, 1890",36.5972925,-121.8977688
+"Monterey Park","City","Los Angeles",61096,60269,7.67,FALSE,"May 29, 1916",34.0625106,-118.1228476
+"Moorpark","City","Ventura",36284,34421,12.28,FALSE,"July 1, 1983",34.285558,-118.8820414
+"Moraga","Town","Contra Costa",16870,16016,9.46,FALSE,"November 13, 1974",37.8349263,-122.1296871
+"Moreno Valley","City","Riverside",208634,193365,51.33,FALSE,"December 3, 1984",33.9424658,-117.2296717
+"Morgan Hill","City","Santa Clara",45483,37882,12.94,FALSE,"November 10, 1906",37.1305012,-121.6543901
+"Morro Bay","City","San Luis Obispo",10757,10234,5.33,FALSE,"July 17, 1964",35.3659445,-120.8499924
+"Mount Shasta","City","Siskiyou",3223,3394,3.77,FALSE,"May 31, 1905",41.3098746,-122.3105666
+"Mountain House","City","San Joaquin",24499,9675,4.558,FALSE,"July 1, 2024",37.7793901,-121.543234
+"Mountain View","City","Santa Clara",82376,74066,11.96,FALSE,"November 7, 1902",37.3900264,-122.0812304
+"Murrieta","City","Riverside",110949,103466,33.61,FALSE,"July 1, 1991",33.5612623,-117.2105183
+"Napa","City","Napa",79246,76915,18.05,TRUE,"March 23, 1872",38.2975381,-122.286865
+"National City","City","San Diego",56173,58582,7.3,FALSE,"September 17, 1887",32.6781085,-117.0991967
+"Needles","City","San Bernardino",4931,4844,30.58,FALSE,"October 30, 1913",34.8480597,-114.6141315
+"Nevada City","City","Nevada",3152,3068,2.19,TRUE,"April 19, 1856",39.2615606,-121.0160594
+"Newark","City","Alameda",47529,42573,13.92,FALSE,"September 22, 1955",37.5299765,-122.0383968
+"Newman","City","Stanislaus",12351,10224,2.06,FALSE,"June 10, 1908",37.3137067,-121.0205526
+"Newport Beach","City","Orange",85239,85186,23.79,FALSE,"September 1, 1906",33.6041944,-117.8738554
+"Norco","City","Riverside",26316,27063,13.86,FALSE,"December 28, 1964",33.9311257,-117.548661
+"Norwalk","City","Los Angeles",102773,105549,9.71,FALSE,"August 26, 1957",33.9170666,-118.0725134
+"Novato","City","Marin",53225,51904,27.48,FALSE,"January 20, 1960",38.1074198,-122.5697032
+"Oakdale","City","Stanislaus",23181,20675,6.23,FALSE,"November 24, 1906",37.7666263,-120.8470308
+"Oakland","City","Alameda",440646,390724,55.93,TRUE,"May 4, 1852",37.8043514,-122.2711639
+"Oakley","City","Contra Costa",43357,35432,15.87,FALSE,"July 1, 1999",37.9974219,-121.7124536
+"Oceanside","City","San Diego",174068,167086,41.27,FALSE,"July 3, 1888",33.1976677,-117.3787563
+"Ojai","City","Ventura",7637,7461,4.36,FALSE,"August 5, 1921",34.4480495,-119.242889
+"Ontario","City","San Bernardino",175265,163924,49.97,FALSE,"December 10, 1891",34.0645932,-117.6483422
+"Orange","City","Orange",139911,134616,25.67,FALSE,"April 6, 1888",33.7879085,-117.855281
+"Orange Cove","City","Fresno",9649,9078,1.79,FALSE,"January 20, 1948",36.624394,-119.3137301
+"Orinda","City","Contra Costa",19514,17643,12.85,FALSE,"July 1, 1985",37.8771476,-122.1796888
+"Orland","City","Glenn",8298,7291,2.99,FALSE,"November 11, 1909",39.7473803,-122.1963748
+"Oroville","City","Butte",20042,15546,13.83,TRUE,"January 3, 1906",39.5133153,-121.5577086
+"Oxnard","City","Ventura",202063,197899,26.53,FALSE,"June 30, 1903",34.1976816,-119.1774639
+"Pacific Grove","City","Monterey",15090,15041,2.87,FALSE,"July 5, 1889",36.6177374,-121.9166215
+"Pacifica","City","San Mateo",38640,37234,12.58,FALSE,"November 22, 1957",37.6327914,-122.4900652
+"Palm Desert","City","Riverside",51163,48445,26.81,FALSE,"November 26, 1973",33.7222445,-116.3744556
+"Palm Springs","City","Riverside",44575,44552,94.55,FALSE,"April 20, 1938",33.8232286,-116.5106191
+"Palmdale","City","Los Angeles",169450,152750,106.06,FALSE,"August 24, 1962",34.577677,-118.1158545
+"Palo Alto","City","Santa Clara",68572,64403,24.1,FALSE,"April 23, 1894",37.4418834,-122.1430195
+"Palos Verdes Estates","City","Los Angeles",13347,13438,4.78,FALSE,"December 20, 1939",33.8005714,-118.3900737
+"Paradise","Town","Butte",4764,26218,18.32,FALSE,"November 27, 1979",39.7596061,-121.6219177
+"Paramount","City","Los Angeles",53733,54098,4.73,FALSE,"January 30, 1957",33.8894598,-118.1597911
+"Parlier","City","Fresno",14576,14494,2.41,FALSE,"November 15, 1921",36.6116174,-119.5270734
+"Pasadena","City","Los Angeles",138699,137122,22.96,FALSE,"June 19, 1886",34.1476527,-118.144302
+"Paso Robles","City","San Luis Obispo",31490,29793,19.65,FALSE,"March 11, 1889",35.6368759,-120.6545022
+"Patterson","City","Stanislaus",23781,20413,7.79,FALSE,"December 22, 1919",37.4716546,-121.1299128
+"Perris","City","Riverside",78700,68386,31.53,FALSE,"May 26, 1911",33.7865768,-117.2261337
+"Petaluma","City","Sonoma",59776,57941,14.42,FALSE,"April 12, 1858",38.232417,-122.6366524
+"Pico Rivera","City","Los Angeles",62088,62942,8.32,FALSE,"January 29, 1958",33.9830688,-118.096735
+"Piedmont","City","Alameda",11270,10667,1.7,FALSE,"January 31, 1907",37.8244063,-122.2314865
+"Pinole","City","Contra Costa",19022,18390,5.1,FALSE,"June 25, 1903",38.0043667,-122.2988587
+"Pismo Beach","City","San Luis Obispo",8072,7655,3.5,FALSE,"April 25, 1946",35.1427533,-120.6412827
+"Pittsburg","City","Contra Costa",76416,63264,17.68,FALSE,"June 25, 1903",38.0279762,-121.8846806
+"Placentia","City","Orange",51824,50533,6.61,FALSE,"December 2, 1926",33.8710317,-117.8628096
+"Placerville","City","El Dorado",10747,10389,5.84,TRUE,"May 13, 1854",38.7296252,-120.798546
+"Pleasant Hill","City","Contra Costa",34613,33152,7.08,FALSE,"November 14, 1961",37.9479786,-122.0607963
+"Pleasanton","City","Alameda",79871,70285,24.14,FALSE,"June 18, 1894",37.6604484,-121.8757968
+"Plymouth","City","Amador",1078,1005,2.65,FALSE,"February 8, 1917",38.4818531,-120.844659
+"Point Arena","City","Mendocino",460,449,1.37,FALSE,"July 11, 1908",38.908798,-123.6930726
+"Pomona","City","Los Angeles",151713,149058,22.99,FALSE,"January 6, 1888",34.055103,-117.7499909
+"Port Hueneme","City","Ventura",21954,21723,4.42,FALSE,"March 24, 1948",34.1477829,-119.1951074
+"Porterville","City","Tulare",62623,54165,18.65,FALSE,"May 7, 1902",36.0651431,-119.0164344
+"Portola","City","Plumas",2100,2104,5.41,FALSE,"May 16, 1946",39.8104567,-120.4691034
+"Portola Valley","Town","San Mateo",4456,4353,9.08,FALSE,"July 14, 1964",37.3841066,-122.2352443
+"Poway","City","San Diego",48841,47811,39.08,FALSE,"December 1, 1980",32.9628232,-117.0358646
+"Rancho Cordova","City","Sacramento",79332,64776,34.57,FALSE,"July 1, 2003",38.587876,-121.2867722
+"Rancho Cucamonga","City","San Bernardino",174453,165269,40.11,FALSE,"November 30, 1977",34.1063989,-117.5931084
+"Rancho Mirage","City","Riverside",16999,17218,25.35,FALSE,"August 3, 1973",33.739744,-116.41279
+"Rancho Palos Verdes","City","Los Angeles",42287,41643,13.47,FALSE,"September 7, 1973",33.7444613,-118.3870173
+"Rancho Santa Margarita","City","Orange",47949,47853,12.9,FALSE,"January 1, 2000",33.640171,-117.602832
+"Red Bluff","City","Tehama",14710,14076,7.56,TRUE,"March 31, 1876",40.1784886,-122.2358302
+"Redding","City","Shasta",93611,89861,59.65,TRUE,"October 4, 1887",40.5754129,-122.3836121
+"Redlands","City","San Bernardino",73168,68747,35.99,FALSE,"December 3, 1888",34.0555693,-117.1825381
+"Redondo Beach","City","Los Angeles",71576,66747,6.21,FALSE,"April 29, 1892",33.8491816,-118.3884078
+"Redwood City","City","San Mateo",84292,76815,19.34,TRUE,"May 11, 1867",37.4847955,-122.228141
+"Reedley","City","Fresno",25227,24194,5.51,FALSE,"February 18, 1913",36.5963395,-119.4504029
+"Rialto","City","San Bernardino",104026,99171,24.09,FALSE,"November 17, 1911",34.1064001,-117.3703235
+"Richmond","City","Contra Costa",116448,103701,30.05,FALSE,"August 7, 1905",37.9374723,-122.3432717
+"Ridgecrest","City","Kern",27959,27616,20.86,FALSE,"November 29, 1963",35.6205062,-117.6717812
+"Rio Dell","City","Humboldt",3379,3368,2.28,FALSE,"February 23, 1965",40.4993013,-124.1064369
+"Rio Vista","City","Solano",10005,7360,6.6,FALSE,"January 6, 1894",38.1557502,-121.6913439
+"Ripon","City","San Joaquin",16013,14297,5.33,FALSE,"November 27, 1945",37.7394537,-121.1354141
+"Riverbank","City","Stanislaus",24865,22678,4.71,FALSE,"August 23, 1922",37.7360111,-120.9357139
+"Riverside","City","Riverside",314998,303871,81.23,TRUE,"October 11, 1883",33.9825358,-117.3757665
+"Rocklin","City","Placer",71601,56974,19.81,FALSE,"February 24, 1893",38.7907339,-121.2357828
+"Rohnert Park","City","Sonoma",44390,40971,7.29,FALSE,"August 28, 1962",38.3396367,-122.7010984
+"Rolling Hills","City","Los Angeles",1739,1860,2.99,FALSE,"January 24, 1957",33.7569615,-118.3539613
+"Rolling Hills Estates","City","Los Angeles",8280,8067,3.58,FALSE,"September 18, 1957",33.7877943,-118.3581284
+"Rosemead","City","Los Angeles",51185,53764,5.16,FALSE,"August 4, 1959",34.0805651,-118.072846
+"Roseville","City","Placer",147773,118788,44.08,FALSE,"April 10, 1909",38.7482609,-121.2832193
+"Ross","Town","Marin",2338,2415,1.56,FALSE,"August 21, 1908",37.9624239,-122.5549775
+"Sacramento","City","Sacramento",524943,466488,98.61,TRUE,"February 27, 1850",38.5781342,-121.4944209
+"Salinas","City","Monterey",163542,150441,23.52,TRUE,"March 4, 1874",36.6777372,-121.6555013
+"San Anselmo","Town","Marin",12830,12336,2.68,FALSE,"April 9, 1907",37.9746458,-122.5616448
+"San Bernardino","City","San Bernardino",222101,209924,62.13,TRUE,"August 10, 1869",34.1045589,-117.291869
+"San Bruno","City","San Mateo",43908,41114,5.49,FALSE,"December 23, 1914",37.6304904,-122.4110835
+"San Carlos","City","San Mateo",30722,28406,5.41,FALSE,"July 8, 1925",37.5071591,-122.2605222
+"San Clemente","City","Orange",64293,63522,18.36,FALSE,"February 28, 1928",33.4273521,-117.6126004
+"San Diego","City","San Diego",1386932,1307402,325.88,TRUE,"March 27, 1850",32.715738,-117.1610838
+"San Dimas","City","Los Angeles",34924,33371,15.03,FALSE,"August 4, 1960",34.1066756,-117.8067257
+"San Fernando","City","Los Angeles",23946,23645,2.37,FALSE,"August 31, 1911",34.2819461,-118.4389719
+"San Francisco","City and county","San Francisco",873965,805235,46.91,TRUE,"April 15, 1850[13]",37.7749295,-122.4194155
+"San Gabriel","City","Los Angeles",39568,39718,4.14,FALSE,"April 24, 1913",34.0961111,-118.1058333
+"San Jacinto","City","Riverside",53898,44199,25.96,FALSE,"April 20, 1888",33.7839084,-116.958635
+"San Joaquin","City","Fresno",3701,4001,1.2,FALSE,"February 14, 1920",36.6066162,-120.1890447
+"San Jose","City","Santa Clara",1013240,945942,178.26,TRUE,"March 27, 1850",37.33874,-121.8852525
+"San Juan Bautista","City","San Benito",2089,1862,0.79,FALSE,"May 4, 1896",36.8455108,-121.5379974
+"San Juan Capistrano","City","Orange",35196,34593,14.43,FALSE,"April 19, 1961",33.5019027,-117.6627655
+"San Leandro","City","Alameda",91008,84950,13.32,FALSE,"March 21, 1872",37.7257663,-122.1568554
+"San Luis Obispo","City","San Luis Obispo",47063,45119,13.31,TRUE,"February 16, 1856",35.2827524,-120.6596156
+"San Marcos","City","San Diego",94833,83781,24.36,FALSE,"January 28, 1963",33.1433723,-117.1661449
+"San Marino","City","Los Angeles",12513,13147,3.77,FALSE,"April 25, 1913",34.121397,-118.1064585
+"San Mateo","City","San Mateo",105661,97207,12.13,FALSE,"September 4, 1894",37.5629917,-122.3255254
+"San Pablo","City","Contra Costa",32127,29139,2.62,FALSE,"April 27, 1948",37.9621457,-122.3455263
+"San Rafael","City","Marin",61271,57713,16.59,TRUE,"February 18, 1874",37.9735346,-122.5310874
+"San Ramon","City","Contra Costa",84605,72148,18.69,FALSE,"July 1, 1983",37.7643595,-121.9539616
+"Sand City","City","Monterey",325,334,0.55,FALSE,"May 31, 1960",36.6171819,-121.8482855
+"Sanger","City","Fresno",26617,24270,5.77,FALSE,"May 9, 1911",36.708006,-119.5559652
+"Santa Ana","City","Orange",310227,324528,27.34,TRUE,"June 1, 1886",33.7454725,-117.867653
+"Santa Barbara","City","Santa Barbara",88665,88410,19.51,TRUE,"April 9, 1850",34.420285,-119.698935
+"Santa Clara","City","Santa Clara",127647,116468,18.28,FALSE,"July 5, 1852",37.3541079,-121.9552356
+"Santa Clarita","City","Los Angeles",228673,176320,70.75,FALSE,"December 15, 1987",34.3916641,-118.542586
+"Santa Cruz","City","Santa Cruz",62956,59946,12.74,TRUE,"March 31, 1866",36.9741275,-122.028807
+"Santa Fe Springs","City","Los Angeles",19219,16223,8.86,FALSE,"May 15, 1957",33.9472359,-118.0853451
+"Santa Maria","City","Santa Barbara",109707,99553,22.81,FALSE,"September 12, 1905",34.9530337,-120.4357191
+"Santa Monica","City","Los Angeles",93076,89736,8.41,FALSE,"November 30, 1886",34.0118828,-118.4915504
+"Santa Paula","City","Ventura",30657,29321,5.53,FALSE,"April 22, 1902",34.3541659,-119.0592705
+"Santa Rosa","City","Sonoma",178127,167815,42.53,TRUE,"March 26, 1868",38.440429,-122.7140548
+"Santee","City","San Diego",60037,53413,16.54,FALSE,"December 1, 1980",32.8383828,-116.9739167
+"Saratoga","City","Santa Clara",31051,29926,12.78,FALSE,"October 22, 1956",37.2717475,-122.0184265
+"Sausalito","City","Marin",7269,7061,1.76,FALSE,"September 4, 1893",37.8590937,-122.4852507
+"Scotts Valley","City","Santa Cruz",12224,11580,4.62,FALSE,"August 2, 1966",37.048345,-122.0168296
+"Seal Beach","City","Orange",25242,24168,11.27,FALSE,"October 27, 1915",33.7414085,-118.1047682
+"Seaside","City","Monterey",32366,33025,8.92,FALSE,"October 13, 1954",36.6149217,-121.822098
+"Sebastopol","City","Sonoma",7521,7379,1.88,FALSE,"June 13, 1902",38.4021359,-122.8238806
+"Selma","City","Fresno",24674,23219,5.81,FALSE,"March 15, 1893",36.5707838,-119.6120765
+"Shafter","City","Kern",19953,16988,38.7,FALSE,"January 20, 1938",35.5020654,-119.2735419
+"Shasta Lake","City","Shasta",10371,10164,10.92,FALSE,"July 2, 1993",40.6804279,-122.3708419
+"Sierra Madre","City","Los Angeles",11268,10917,2.95,FALSE,"February 2, 1907",34.1619004,-118.0527046
+"Signal Hill","City","Los Angeles",11848,11016,2.19,FALSE,"April 22, 1924",33.8044614,-118.1678456
+"Simi Valley","City","Ventura",126356,124237,41.55,FALSE,"October 10, 1969",34.2694474,-118.781482
+"Solana Beach","City","San Diego",12941,12867,3.41,FALSE,"July 1, 1986",32.991155,-117.2711481
+"Soledad","City","Monterey",24925,25738,4.46,FALSE,"March 9, 1921",36.424687,-121.3263187
+"Solvang","City","Santa Barbara",6126,5245,2.43,FALSE,"May 1, 1985",34.5958201,-120.1376481
+"Sonoma","City","Sonoma",10739,10648,2.74,FALSE,"September 3, 1883",38.291859,-122.4580356
+"Sonora","City","Tuolumne",5003,4903,3.16,TRUE,"May 1, 1851",37.9829496,-120.3821724
+"South El Monte","City","Los Angeles",19567,20116,2.84,FALSE,"July 30, 1958",34.0519548,-118.0467339
+"South Gate","City","Los Angeles",92726,94396,7.24,FALSE,"January 20, 1923",33.954737,-118.2120161
+"South Lake Tahoe","City","El Dorado",21330,21403,10.19,FALSE,"November 30, 1965",38.939926,-119.9771868
+"South Pasadena","City","Los Angeles",26943,25619,3.41,FALSE,"March 2, 1888",34.1161196,-118.1503488
+"South San Francisco","City","San Mateo",66105,63632,9.2,FALSE,"September 19, 1908",37.654656,-122.4077498
+"St. Helena","City","Napa",5430,5814,4.96,FALSE,"March 24, 1876",38.5052429,-122.4703868
+"Stanton","City","Orange",37962,38186,3.1,FALSE,"June 4, 1956",33.8028875,-117.9931203
+"Stockton","City","San Joaquin",320804,291707,62.21,TRUE,"July 23, 1850",37.9575104,-121.2924737
+"Suisun City","City","Solano",29518,28111,4.01,FALSE,"October 9, 1868",38.2382474,-122.040244
+"Sunnyvale","City","Santa Clara",155805,140081,22.06,FALSE,"December 24, 1912",37.36883,-122.0363496
+"Susanville","City","Lassen",16728,17947,7.92,TRUE,"August 24, 1900",40.4162842,-120.6530063
+"Sutter Creek","City","Amador",2646,2501,2.7,FALSE,"February 11, 1913",38.3929675,-120.8024357
+"Taft","City","Kern",8546,9327,15.27,FALSE,"November 7, 1910",35.1424671,-119.4565078
+"Tehachapi","City","Kern",12939,14414,10.26,FALSE,"August 13, 1909",35.1321877,-118.4489739
+"Tehama","City","Tehama",435,418,0.79,FALSE,"July 5, 1906",40.0271015,-122.1233228
+"Temecula","City","Riverside",110003,100097,37.27,FALSE,"December 1, 1989",33.4934243,-117.1488156
+"Temple City","City","Los Angeles",36494,35558,4,FALSE,"May 25, 1960",34.1072305,-118.0578456
+"Thousand Oaks","City","Ventura",126966,126683,55.26,FALSE,"October 7, 1964",34.1761133,-118.8487793
+"Tiburon","Town","Marin",9146,8962,4.48,FALSE,"June 23, 1964",37.8735377,-122.4566392
+"Torrance","City","Los Angeles",147067,145538,20.52,FALSE,"May 21, 1921",33.8369217,-118.3407451
+"Tracy","City","San Joaquin",93000,82922,25.89,FALSE,"July 22, 1910",37.7395818,-121.4260018
+"Trinidad","City","Humboldt",307,367,0.49,FALSE,"November 7, 1870",41.059291,-124.1431246
+"Truckee","Town","Nevada",16729,16180,32.33,FALSE,"March 23, 1993",39.327962,-120.1832533
+"Tulare","City","Tulare",68875,59278,20.39,FALSE,"April 5, 1888",36.2077288,-119.3473379
+"Tulelake","City","Siskiyou",902,1010,0.41,FALSE,"March 1, 1937",41.9559884,-121.4774916
+"Turlock","City","Stanislaus",72740,68549,16.91,FALSE,"February 15, 1908",37.4945743,-120.8459786
+"Tustin","City","Orange",80276,75540,11.16,FALSE,"September 21, 1927",33.7420005,-117.8236391
+"Twentynine Palms","City","San Bernardino",28065,25048,58.75,FALSE,"November 23, 1987",34.1355582,-116.0541689
+"Ukiah","City","Mendocino",16607,16075,4.78,TRUE,"March 8, 1876",39.1501709,-123.2077831
+"Union City","City","Alameda",70143,69516,19.18,FALSE,"January 26, 1959",37.5933562,-122.0438609
+"Upland","City","San Bernardino",79040,73732,15.58,FALSE,"May 15, 1906",34.09751,-117.6483876
+"Vacaville","City","Solano",102386,92428,29.87,FALSE,"August 9, 1892",38.3565773,-121.9877444
+"Vallejo","City","Solano",126090,115942,30.42,FALSE,"March 30, 1868",38.1040864,-122.2566367
+"Ventura","City","Ventura",110763,106433,21.89,TRUE,"April 2, 1866",34.2808409,-119.2931259
+"Vernon","City","Los Angeles",222,112,4.98,FALSE,"September 22, 1905",34.003903,-118.230073
+"Victorville","City","San Bernardino",134810,115903,73.71,FALSE,"September 21, 1962",34.5362184,-117.2927641
+"Villa Park","City","Orange",5843,5812,2.08,FALSE,"January 11, 1962",33.8140062,-117.8220723
+"Visalia","City","Tulare",141384,124442,37.94,TRUE,"February 27, 1874",36.3301329,-119.2966367
+"Vista","City","San Diego",98381,93834,18.75,FALSE,"January 28, 1963",33.2000368,-117.2425355
+"Walnut","City","Los Angeles",28430,29172,8.99,FALSE,"January 19, 1959",34.0202894,-117.8653386
+"Walnut Creek","City","Contra Costa",70127,64173,19.76,FALSE,"October 21, 1914",37.9100783,-122.0651819
+"Wasco","City","Kern",27047,25545,9.39,FALSE,"December 22, 1945",35.5941238,-119.3409457
+"Waterford","City","Stanislaus",9120,8456,2.36,FALSE,"November 7, 1969",37.640545,-120.7615808
+"Watsonville","City","Santa Cruz",52590,51199,6.71,FALSE,"March 30, 1868",36.910231,-121.7568946
+"Weed","City","Siskiyou",2862,2967,4.82,FALSE,"January 25, 1961",41.426848,-122.3842548
+"West Covina","City","Los Angeles",109501,106098,16.04,FALSE,"February 17, 1923",34.0686208,-117.9389526
+"West Hollywood","City","Los Angeles",35757,34399,1.89,FALSE,"November 29, 1984",34.0907087,-118.3703284
+"West Sacramento","City","Yolo",53915,48744,21.47,FALSE,"January 1, 1987",38.5804609,-121.530234
+"Westlake Village","City","Los Angeles",8029,8270,5.19,FALSE,"December 11, 1981",34.1466467,-118.8073729
+"Westminster","City","Orange",90911,89701,10.04,FALSE,"March 27, 1957",33.7591757,-117.9897058
+"Westmorland","City","Imperial",2014,2225,0.59,FALSE,"June 30, 1934",33.0372674,-115.6213817
+"Wheatland","City","Yuba",3712,3456,8.12,FALSE,"April 23, 1874",39.008843,-121.4238891
+"Whittier","City","Los Angeles",87306,85331,14.65,FALSE,"February 25, 1898",33.9754423,-118.0326781
+"Wildomar","City","Riverside",36875,32176,23.7,FALSE,"July 1, 2008",33.5989126,-117.2800372
+"Williams","City","Colusa",5538,5123,4.95,FALSE,"May 17, 1920",39.1546137,-122.1494187
+"Willits","City","Mendocino",4988,4888,2.82,FALSE,"November 19, 1888",39.4096079,-123.3555656
+"Willows","City","Glenn",6293,6166,2.84,TRUE,"January 16, 1886",39.5243265,-122.1935931
+"Windsor","Town","Sonoma",26344,26801,7.44,FALSE,"July 1, 1992",38.5471327,-122.8163802
+"Winters","City","Yolo",7115,6624,2.94,FALSE,"February 9, 1898",38.5249065,-121.9708017
+"Woodlake","City","Tulare",7419,7279,2.61,FALSE,"September 23, 1941",36.4135605,-119.0987176
+"Woodland","City","Yolo",61032,55468,15.32,TRUE,"February 22, 1871",38.6785157,-121.7732971
+"Woodside","Town","San Mateo",5309,5287,11.47,FALSE,"November 16, 1956",37.4299388,-122.2538557
+"Yorba Linda","City","Orange",68336,64234,19.95,FALSE,"November 2, 1967",33.8885035,-117.8132571
+"Yountville","Town","Napa",3436,2933,1.49,FALSE,"February 4, 1965",38.4015781,-122.3608105
+"Yreka","City","Siskiyou",7807,7765,9.99,TRUE,"April 21, 1857",41.7354186,-122.6344708
+"Yuba City","City","Sutter",70117,64925,14.98,TRUE,"January 23, 1908",39.1406607,-121.6177394
+"Yucaipa","City","San Bernardino",54542,51367,28.27,FALSE,"November 27, 1989",34.033625,-117.0430865
+"Yucca Valley","Town","San Bernardino",21738,20700,39.83,FALSE,"November 27, 1991",34.1141743,-116.432235
