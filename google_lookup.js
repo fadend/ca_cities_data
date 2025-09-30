@@ -1,3 +1,25 @@
+// Look up lat-lng using the Google Places API.
+// See https://developers.google.com/maps/documentation/javascript/reference/place.
+
+// To use this, you'll need to set up an API key in the Google Cloud console,
+// making sure to enable the new Places API.
+//
+// Here's an example of what the HTML scaffolding to use this might look like:
+//
+// <script src="lookup.js"></script>
+// <script
+//   async
+//   src="https://maps.googleapis.com/maps/api/js?key={{YOUR KEY HERE}}&loading=async&libraries=places&callback=lookUpLatLng"
+// ></script>
+// Results:
+// <br />
+// <textarea id="results" rows="10" cols="50"></textarea>
+// <br />
+// Failed:
+// <br />
+// <textarea id="failed" rows="10" cols="50"></textarea>
+
+
 const CA_CITIES = [
   "Adelanto",
   "Agoura Hills",
